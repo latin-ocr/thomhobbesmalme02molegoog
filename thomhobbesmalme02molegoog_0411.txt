@@ -1,0 +1,41 @@
+GEOMETRARUM. 399
+
+directum jacentium, alterius ad alteram inclinatio. cu. vm.
+Ideam sive imaginem anguli, de quo tam multa di· m
+cuntur a geometris, impressam animo pauci habent.
+Quicquid maxima ex parte in superficie late patens,
+desinit in angustum, dicitur vulgo angulus, Talem
+ideam anguli, etiam Euclides a conspectis duabus
+lineis concurrentibus conceptam videtur voluisse
+hoc loco verbis declarare ε neque, ut videtur, om-
+nino cogitaverat aut audiverat quicquam de angulo
+contactus. Quanquam enim (Elem. iii. prop. 16)
+conatur demonstrare angulum factum a tangente
+et circumferentia circuli minorem esse omni angulo
+acuto, nusquam tamen nominat angulum contactuS,
+neque de illo sub alio quovis nomine quicquam
+dicit. Itaque non videtur voluisse comprehendere
+hac definitione angulum planum ullum, qui non
+fuerit ejusdem generis cum angulo rectilineo: quod
+etiam ex eo colligi potest, quod ad anguli definitio-
+nem necessariam putaverit esse conditionem, ne
+lineoe quae angulum efficiunt jaceant in directum.
+Verum quid voluisse videtur EuclideS, conjicere
+frustra erit: ipsam definitionem verbatim conside-
+remus.
+
+Quod ut melius faciamuS, cum sit res satis magni
+mathematicis momenti, quaeque magnas inter Cla-
+vium et Pelletarium contentiones excitavit, rem
+totam descripta figura ponamus ante oculos.
+
+Sit recta AB divisa bifariam in C, et radiis AC,
+BC describantur duo circuli FI, GH: secetque
+recta ΕΙ) rectam AB ad angulos rectos in O.
+
+Videamus primo, quaenam sint duae lineae quae
+angulum constituunt, et quae duae angulum non
+constituunt. Rectae DC, ΟΕ absque dubio consti-
+
+tuunt compositae unam rectam DE. Sed an item
+

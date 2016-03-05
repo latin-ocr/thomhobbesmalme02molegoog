@@ -1,0 +1,44 @@
+MATHEMATICAE nomnRNAE. 93
+
+1000 valebit 27; propterea quod, sicut 3 ad 27 numana
+sunt in proportione 3 ad 9 duplicata, ita numerus ,ᾆξ’-,μ
+valens 27, debet esse in proportione 10 ad 100
+duplicata. Scribendus est ergo 27 per has notae,
+ut l ante tres ciphras significet id quod sit ex ter-
+nario in se ter multiplicato, id est, 27.
+
+Β. Si esset tantum una nota numeralis praeter
+ciphram, quomodo scriberetur idem numerus 27 Ρ
+
+Α. Si ita esset, valor locorum procederet per
+rationem duplam, et recurrendum esset alternis
+locis ad 1 et ciphram vel ciphras. Nam 1 in ultimo
+loco significaret unitatem, in secundo ab unitate,
+10 significaret 2, et 11 in tertio loco 3, et 100 in
+loco quarto 4, et 10000 in loco decimo sexto 16.
+Nam ut 4 in 4 facit 16, ita 100 in 100 facit 10000.
+Deinde 11000 in loco vicesimo quarto valebit 20; ,
+et consequenter 11001 valebit 253 11010 valebit
+26; et denique 11011 valebit 27, id est, l unitaS‚
+l binarius, l octonariuS‚ et l sedenariu8‚ qui simul
+faciunt 27.
+
+B. Verum est. Sed nonne potest, ubi valores
+locorum sunt in ratione dupla, numerus 27 scribi
+per alias notas quam 11011 Ρ
+
+Α. Potest; sed assumenda est nota binarii.
+Nam sub his notis proportionis duplae 8,4,2,1, sub·
+scribe 2,2‚1‚1; hoc modo {ffi- valebit 22ll,·duos
+octonariOS, duos quaternariOS, et praeterea bina-
+rium, et unitatem ; qui numeri faciunt simul additi
+27.
+
+Β. Sed quando opus erit ut paucioribus notis
+utamur quam novem quibus utimur. Perge legere.
+
+Α. H is ita explicatis, monendum duco universam
+artem algebrae eive analyticae ex hoc uno quasi
+
+fundamento dependere. Nam revera quod nobis
+

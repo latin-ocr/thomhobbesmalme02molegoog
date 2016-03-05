@@ -1,0 +1,44 @@
+, 360 PROBLEMATA PanmA.
+
+PROPOSITIONES XVI DE MAGNITUDINE
+CIRCULI.
+
+ 
+
+AD LECTOREM CYCLOMETRIAE· STUDIOSUM
+PRAEFATIUNCULA.
+
+ΝΕ multitudine linearum in diagrammate a le-
+gendo deterream, monendus eS, rationem circum-
+ferentiae circuli ad diametrum demonstratam esse
+a constructione prima, constante ex lineis satis
+paucis, et facile distinguendis, Habes ergo quod
+promittit tituluS, in duabus primis propositionibus
+plene praestitum. Si tamen propositionum caetera-
+rum pulchritudo, ut illarum etiam demonstrationes
+legere et examinare velis, suadeat, a lineis reliquis
+minorem habebis molestiam: et quanto plus pro-
+gredieris, tanto semper viam invenies procliviorem.
+
+———
+
+ 
+
+’ coNsTauc'rlo 1.
+
+consmuc- Dnscmnuun quadratum ABCD‚ et dividatur in
+²⁸¹0· quatuor quadrata aequalia a duabus rectis EF, GH,
+se mutuo secantibus in I; ducanturque diagonales
+
+AC, BD. Centro A, radio AB ducatur arcus qua-
+
+drantis BD, secans rectam EF in K, et rectam GH
+
+in k, et AC in P ; itaque arcus BD sectus erit
+
+bifariam in P. Ducatur ΒΚ secans Ac in O,
+
+et producatur ad BC in M. In producta BC su-
+
+matur CL aequalis CM. Item in Dc sumatur recta
+

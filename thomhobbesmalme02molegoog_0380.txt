@@ -1,0 +1,42 @@
+368 nn MAGNITUDINE officum.
+
+mov. vn. Coroll. Quia ergo recta gd et arcus BP sunt
+‘'ff—d aequaleS, erunt gd, ΟΡ, Ro continue proportionales.
+
+PROPOSITIO vul.
+
+Ut radius BC ad semissem arcus BD, ita est
+DS vel Ro ad semiradium GI. Cum enim RO,
+AB, ΒΜ (sive arcus BD), sunt continue propor-
+tionales, erit ut AB ad semissem ΒΜ (id est, ad
+areum BP), ita Ro ad GI semissem lateris BC.
+
+PROPOSITIO lx.
+
+Recta ΑΕ aequalis est arcui quadrantis descripti
+radio AI vel ΑΩ.
+
+Cum enim arcus quadrantis descripti radio DS
+vel Ro aequalis sit lateri ΑΒ, et Rn sit dimidia Rc),
+arcus quadrantis descripti ab Rn vel ab nO erit
+aequalis semiradio ΒΕ. Quare arcus quadrantis
+descriptus a subteusa An aequalis erit subtensae
+duarum rectarum ΑΒ, ΒΕ, id est, rectae ΑΕ. Os-
+tensum autem est quod AE, sive Ad est media
+proportionalis inter arcum BD et ipsius semissem
+ΒΡ; et manifestum est arcum quadrantis descripti
+ab Aa vel AI medium esse proportionalem inter
+eosdem arcus BD et BP, *cum ipsa Aa sit media
+proportionalis inter AB et AG: sequitur ergo rec-
+tam AE, et arcum quadrantis descripti radio Aa
+vel ΑΙ, esse inter se aequales,
+
+PRO POSITIO X.
+
+Recta CO aequalis est subtensae arcus ΒΚ.
+
+Ducatur subteusa ΒΚ, et producatur indefinite.
+Erunt ergo puncta O et V in eadem recta Ro,
+Triangulum autem OKV est aequilaterum; et ΑΚ
+secabit rectam Bk bifariam et ad angulos rectos
+

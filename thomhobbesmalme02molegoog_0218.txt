@@ -1,0 +1,44 @@
+mALoG ΠΒ
+Vl.
+
+206 ExAmNA'mo m· EMENDATIO
+
+est reliquo spatio, nimirum, spatio quod relinqui-
+tur, dempto a quadrante A BC triangulo rectilineo
+ABC, id est, spatio incluso intra arcum BC et sub-
+tensam ejuS. Quod erat demonstrandum.
+
+PROPOSITIO X.
+
+Si ducta Bo producatur ad basim cycloidis BF
+in u, erit recta Du duae quintae ipsius DF, sive ip-
+sius arcus BC D.
+
+Ostensum enim est in praecedentibus arcum qua-
+drantiS, cujus radius est aequalis rectae BD, aequalem
+esse rectae quae potest decem semiradioS, id est,
+quae potest decem radios semicirculi genitoris, Est
+autem D F, per constructionem, aequalis arcui BCD.
+Quoniam autem angulus BoD in semicirculo est
+rectuS, et quatuor rectae 6 G, 6 Β, 6D,6F sunt aequa-
+leS, item quatuor anguli BDO, GBo, 6DB, 6FD
+inter se aequales; erunt triangula GDB, BD0,
+Duo similia. Est ergo ut BG, id est, arcus BCD,
+ad DB diametrum, ita BD diameter ad Du. Est
+ergo D u aequalis rectae quam appellavimus Z, sive
+duabus quintis rectae quae potest decem semiradiOS,
+id est rectae BF, id est arcus BCD. Quod erat
+demonstrandum.
+
+PROPOSITIO XI.
+
+Centrum gravitatis bilinei contenti linea cycloi-
+dale Bf F et recta BF, est in eo puncto diagonalis
+DG, quod ipsam ita dividit in K, ut DK sit ad KG
+ut 7 ad 5.
+
+Est enim triangulum AFD quarta pars rectan-
+guli DG, id est, aequalis semicirculo genitori: et tri-
+angulum B FD aequale duplo semicirculo genitori.
+Quoniam autem centrum gravitatis trianguli AFD
+

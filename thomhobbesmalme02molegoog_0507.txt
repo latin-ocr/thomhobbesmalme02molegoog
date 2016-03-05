@@ -1,0 +1,47 @@
+cumn-10 SPHAERAE. 495
+
+solidorum reciprocae. Quare (per Euclid. Elem. xi. ntor- 11·
+
+prop. 34) cubus a Im, et solidum sub ΤΘ et quadrato
+
+ab ag, sunt aequalia. Sed solidum sub ΤΟ, et qua-
+
+drato ab ag, aequale est sphaerae cujus diameter est
+
+ΟΕ. Quare cubus a Im aequalis est sphaerae eidem.
+Inventus ergo est cubus sphaerae aequalis.
+
+PRoPosl'rlo 111.
+
+Invenire rectam aequalem arcui CL.
+
+Repetatur in figura secunda pars figurae primae,
+in qua quadratum QRST aequale est circulo BCDE.
+Centro A, intervallo AY describatur arcus circuli
+secans AO in d, et AG in b: et per punctum d du-
+catur recta Zc parallela GC, secans AC in Z et AG
+m c.
+
+Dico rectam Ze aequalem esse arcui CL.
+
+Nam CG,YQ,Zc sunt continue proportionales.
+Et (per Archimedem de Dimensione Circum trian-
+gulum rectangulum, cujus latus unum circa angu-
+lum rectum aequale est perimetro circuli, et latus
+alterum aequale semidiametro, aequale est totius cir·
+culi areae.
+
+Ergo rectangulum sub semiperimetro et radio,
+aequale est areae ejusdem circuli. ’
+
+Ergo rectangulum sub parte quarta perimetri et
+radio, aequale est areae semicirculi BCD.
+
+Ergo rectangulum sub octava parte perimetri et
+radio, id est rectangulum sub AC et arcu CL,
+aequale est areae quadrantis ACB.
+
+Ergo quadratum a media proportionali inter AC
+
+ἶξὲιὲοιιω CL, aequale est areae quadrantis ejusdem
+

@@ -1,0 +1,42 @@
+MATHEMATICAE noomRNAE. 21 l
+
+Consect. i1. Recta fz ita secat cycloidem‚ puta numana
+in c, ut bilineum qs c et trilineum czB sint inter ,ἓξ-,ό
+se aequalia; quod ex eo manifestum est, quod spa-
+tium cycloidale fA Bm f, et quadrilaterum recti-
+lineum ABzf sunt inter se aequalia.
+
+Consect. iii. Triangulum rectilineum f zB aequale
+est bilineo f B f. Est enim triangulum f Cz, cujus
+latus f C aequale est arcui BC, et latus Cz aequale
+radio AC, aequale quadrantiABC. Quoniam autem
+triangulumsz una cum quadrato ABzc aequale
+est spatio cycloidali f B A, ablato communi trian-
+gulo rectilineo f A B, erit reliquum triangulum f z B
+aequale reliquo bilineo f B s, id est, dimidio qua-
+drato ABzC.
+
+PROPOSITIO xvl.
+
+Solidum descriptum a plano cycloidali Bf FDB,
+moto super basem DF per quadrantem circuli, est
+aequale duabus tertiis solidi quod fit a rectangulo
+DG‚ moto item super eandem basem et per qua-
+drantem circuli.
+
+Intelligatur rectangulum D G moveri super basem
+DF immotam, donec rectae DB, FG‚ caeteraeque
+intermediae parallelae descripserint singulae suos
+quadrantes ; quo facto, dictum rectangulum DG
+insistet plano chartae perpendiculariter, in com-
+muni sectione DF; eritque descripta quarta pars
+cylindri recti. Erit autem arcus quadranti8‚ de-
+scripti ab unaquaque parallelarum dictarum, aequa-
+lis arcui Bel), ct quotalibet pars ejus aequalis
+parti cognomini arcus BC. Praeterea, sinus rectus
+quotaelibet partis arcus quadrantis descripti a DB,
+aequalis erit chordae arcus cognominis descripti ab
+AB. Ubi enim arcus quadrantis arcui semicirculi
+
+P 2
+

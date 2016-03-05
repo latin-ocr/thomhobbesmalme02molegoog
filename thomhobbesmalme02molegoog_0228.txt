@@ -1,0 +1,43 @@
+Dm Locus
+
+v1.
+5-7-—2
+
+216 EXAMINATIO ΕΤ ΕΜΕΝΒΑΤῙΟ
+
+PROPOSITIO XIX.
+
+Solidi, quod fit a conversione trianguli rectilinei
+FDB per quadrantem circuli super basem FD,
+centrum gravitatis est in plano quadrantis descripti
+semidiametroyy et erecti ad planum chartae, et in
+ea recta quae ducta a puncto γ dividit arcum ejus-
+dem quadrantis bifariam, distatque a puncto γ,
+quod est in basi, tantum quanta est dodrans duplae
+rectae Α ν.
+
+Factum enim solidum a revolutione integra tri-
+anguli FDB super basem FD, est conus cujus cen-
+trum gravitatis dividit basem FD ita ut pars ad
+verticem sit ad reliquam ut 3 ad l, id estin γ.
+Quare planum erectum ad planum chartae in com-
+muni sectione FD secans eam in γ, est planum
+aequilibrii tum ipsius coni, tum etiam dimidii vel
+quotaelibet partis ejus, Planum enim aequilibrii
+dividit haec in momenta aequalia. Est ergo cen-
+trum aequilibrii solidi, quod fit a quarta parte con-
+versionis trianguli FD, in plano quadrantis de-
+scripti a γγ et erecti ad planum chartae. Quoniam
+autem arcus quadrantis descripti a DB duplus est
+arcus BCD ‘descripti ab AB, et centrum gravitatis
+semicirculi BCD distat a centro A intervallo AO,
+erit centrum gravitatis semicirculi descripti a DB
+in distantia a centro D tanta, quanta est dupla AO.
+Sumatur DT aequalis duplae AO, ducaturque FT
+secans γγ in V. Quare, quando in conversione tri-
+anguli FDB recta DT fit plano chartae perpendi-
+culariS‚ erit punctum T centrum gravitatis semicir-
+culi descripti a diametro DB. Secet recta FB
+rectam γγ in X. Quare quando in conversione
+trianguli FDT‚ yV est ad planum chartae erecta,
+

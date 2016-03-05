@@ -1,0 +1,45 @@
+cnnA‘rlo spumam: 499,
+
+Coroll. v. Eadem Ae aequalis est duabus quintis rnor- vm.
+arcus ΒΟ. Nam quadrata a Gi, Ac, Ae, sunt ξ, ἐξ,
+et -ὲ, Quare latus Ae est δὲ arcus ΒΟ.
+
+Notandum quod rectae Gi, ΑΟ, Ae dupliciter aesti-
+
+mantur: uno modo per partes arcus ΒΟ, alio per
+partes radii AC.
+
+PRoPoslTlo IX.
+
+, Si a puncto n ducatur recta nm parallela CG,
+secans AC in m: dico septem recta-s· AC, AY, AZ,
+Ah, Ae, Am, Ak, esse continue proportionale-5. .
+
+Cum enim ΑΟ, AY, AZ sint continue proportio-
+naleS, per constructionem: ostensumque sit AZ, Ah,
+Ae esse continue proportionales: positis ordine
+quantitatibus Ac, AY, AZ, Ah, Ae, ratio ΑΟ ad Ae
+erit (per Eucl. xiV. 28) duplicata rationis AY ad
+Ab. Sed ratio AY ad ΑΖ subduplicata est rationis
+ΑΟ ad AZ. Quare ratio AY ad AZ, eadem est cum
+ratione AZ ad Ah vel Ah ad Ae. Sunt ergo ΑΟ,
+AY, AZ,· Ah, Ae continue proportionales, Rursus,
+quia ΑΟ, Ah, Ale sunt continue proportionales:
+(nam ΑΙι aequalis est dimidiae diagonali AG) : et AZ,
+Ah, Ae sunt ostensae continue proportionales: erit
+ut ΑΟ ad AZ, ita reciproce Ae ad Alc.
+
+Quia denique tres recta: Ab, An, Al sunt aequales
+tribus AY, AZ, Ah continue proportionalibus, etiam
+ipsae sunt continue proportionales,
+
+Sunt ergo septem rectae ΑΟ, AY, AZ, Alz, Ae,
+Am, Alc continue proportionales.
+
+Propositio haec sine alia demonstratione perspicua
+est ab ipso diagramatis intuitu. Impossibile enim
+est ut septem rectae continue proportionales sint in
+ratione CG ad QY, nisi arcus ab antecedente de-
+
+K K ‘2
+

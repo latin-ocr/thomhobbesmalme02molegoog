@@ -1,0 +1,41 @@
+200 EXAmNATlo ΕΤ ΕΜΕΝΒΑΤῙΟ
+
+mALocus decrescenteS, scilicet secundum eandem rationem
+
+. Ἦ· , arithmeticam, donec evanescerent in puncto E.
+Sed arcus hi constituerent semicirculum, modo
+radius EG in partes aliquotas divisus sit, in quot
+partes dividi illum est possibile; constituerent,
+inquam, semicirculumEGHF. Quare compositae
+lineae BGHF, Βλῖ, Beck, Βιί, ΒθΙι, Bag, BZs,
+et caeteri, omnes eadem methodo descriptibileS, qui
+dupli sunt arcuum GHF, λῖ, velt, ιί, etc., cuncti
+constituent spatium duplum semicirculi EGHF.
+Sed spatium inclusum cycloide et arcu GHF et
+recta BG, est ipsum spatium quod constituitur a
+lineis illis compositis BGH F, Β λ l, etc. Est ergo
+spatium inclusum cycloide et arcu GHF et recta
+BG, duplum semicirculi EGH F. Reliquum ergo
+spatium inclusum cycloide et duabus rectis BG,
+FG, aequale est semicirculo. Quod erat demon-
+strandum.
+
+consectarium i. Sequitur hinc, spatium com-
+prehensum cycloide et duabus rectis DF, DB,
+triplum esse semicirculi genitoris. Nam rectan-
+gulum totum quod fit a semiperimetro, id est a
+DF, in diametrum BD, est semicirculi quadruplum.
+
+Consec't. ii. Manifestum quoque est, spatium
+duabus curvis, nimirum cycloide et arcu BCD, et
+recta DF inclusum, duplum esse semicirculi geni-
+toris ABCD. Est enim semicirculus ABCD unum,
+quorum trilineum inclusum cycloide et rectis D F,
+DB est tria.
+
+Con-rect. iii. Sequitur etiam, rectam quamlibet
+parallelam basi DF et interceptam a cycloide et
+arcu BCD, aequalem esse arcui sibi contiguo,
+sumpto a contactu ad punctum B. Tota enim
+recta DF aequalis est· toti arcui DCB, per hypo-
+

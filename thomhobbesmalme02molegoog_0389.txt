@@ -1,0 +1,43 @@
+nn MAGNITUDINE cmoum. 377
+
+in d, ducaturque Hd quae secabit arcum in E, ita reor. xv1.
+ut sit sicut Td ad dv , ita FE ad EA. Sed FA di-
+
+viditur quoque bifariam in E, transibit ergo H d
+
+per communem sectionem rectae FA et arcus TR.
+
+Erit ergo circulo per RTG aequale quadratum de-
+scriptum super latus AB, 'ut in praecedente propo-
+
+sitione demonstratum est.
+
+Potuit ergo problema hoc demonstrari sine ope
+mediae proportionalis inter semidiametrum et se-
+missem peripheriae circuli; nisi aliquando ea qnae
+prope sunt, longe quaereremus.
+
+Diagonalis cujuslibet ex dictis sedecim quadratis
+subtendit decimam partem totius perimetri circuli,
+ita ut arcus SG sit una vigesima pars ejus, et arcus
+GTE tres vicesimae parteS, et rursus ER vicesima
+pars ejusdem, et arcus RS, quarta pars totius pe-
+rimetri, quinque vicesimae partes. Nam si HT
+semidiameter divisa sit extrema et media ratione
+in F, recta HF, majus ejus segmentum, aequale erit
+subtensae arcus GP, per Elem. xiv. prop. 4.
+
+Reddidi jam rationem omnium fere linearum in
+figura prima descriptarum3 circulum quadrato
+aequalem, et circulo quadratum aequale exhibui;
+etiam inter totam AB et semissem ejus duas inveni
+medias continue proportionaleS, id est cubum dn-
+plicavi ; quod etiam methodo alia ante feceram, ea
+nempe quae sequitur; non plenioris aut clarioris
+demonstrationis causa, sed nt objectiones a profes-
+
+soribus nostris geometriae publicis editae, quam in-
+eptae sint lectori appareat.
+
+ψ
+

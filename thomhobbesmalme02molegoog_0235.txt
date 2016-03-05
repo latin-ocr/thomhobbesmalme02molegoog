@@ -1,0 +1,40 @@
+MATHEMATIcAE HonmnNAE. 223
+
+Ostensum enim est, quod centrum gravitatis numana
+semicirculi ABCD est in recta AC, quae a centro „XL
+A dividit semicirculum ABCD bifariam; distatque
+a puncto A tantum quanta est AO, id est, quanta
+est duae quindecimae rectae DF, sive arcus BCD.
+Sed in omnibus semicirculis centra gravitatis situm
+habent similem. Quare centrum gravitatis semi-
+circuli, cujus diameter est DF, distat a puncto D
+tantum quanta est duae quindecimae arcus semi-
+circuli, cujus diameter est DF, aequalis arcui BCD.
+Est autem arcus semicirculi, cujus diameter est
+aequalis arcui BCD, aequalis (per prop. ii*) quinque
+semiradiiS, sive quintuplae ΒΟ. Itaque centrum
+gravitatis distat a centro D, tantum quanta est
+duae quindecimae quintuplae AB, id est, duae tertiae
+semiradii AB. Quod erat demonstrandum.
+
+Con-sect. Dato centro gravitatis semicirculi,
+datur quoque centrum gravitatis dimidii ejus ς
+atque etiam cujuslibet sectoris qui sit semicirculi
+quotalibet parS.
+
+B. Method0, ut videtur, eadem qua centra gra-
+vitatis partium cylindri facti a conversione plani
+DG circa DF inventa sunt, inveniri possunt etiam
+centra gravitatis partium cylindri facti a conver-
+sione ejusdem plani DG circa DB. Quid ergo ea
+quae restant non demonstras?
+
+A. Primo, quia haec parata habui; caetera non-
+dum contemplatus sum. Secundo, quia alia figura
+describenda esset, in qua semicirculus, cujus dia-
+meter est DF, esset describendus, et non paucioribus
+lineis quam haec onerata est, oneranda3 id quod
+mihi quidem operae pretium esse non videtur. Nam
+
+⁴* Frustra quaeretur in tractatu hoc propositio supra citata.
+

@@ -1,0 +1,47 @@
+MATHRMATICAE HODOERNAE. 37
+
+Α. Neque syllogismus est, qui vitiosus est, ne· »umens
+que definitio, quae vitiosa. ¹·
+
+B. Quid si conclusio sequatur, sine definitione,
+axiomata. An non erit demonstratio ?
+
+A. Erit; modo axiomata illatum manifesta sint,
+tum etiam demonstrari, si imperetur, possint ; qua-
+lia sunt axiomata sumpta ab Euclide.
+
+B. Sed ipsa definitio quomodo definitur.
+
+A. Definitio nonne propositio est?
+
+B. Est.
+
+A. Nonne etiam est explicativa nominis definiti?
+
+B. Etiam.
+
+A. Quomodo explicatur nomen quodviS, verbi
+gratia, nomen homo ἓ
+
+B. Si ponatur vox homo pro subjecto proposi-
+tionis, deinde pro praedicatO, nomen quod fit, ag-
+gregatum est omnium nominum quibus homo dis-
+tinguitur a rebus caeteris omnibuS. Exempli causa,
+distinguitur ab omnibus accidentibus per nomen
+corpus ,· a caeteris corporibus per nomen sentiens ,-
+a caeteris sentientibuS, sive animalibus, per nomen
+rationale. Itaque si dicamus homo est corpus
+sentiens rationale, erit illa propositio definitio
+hominis Nomina enim, quae ad faciendum prae-
+dicatum aggregantur, complicata sunt in una
+appellatione illa homo, ipsumque hominem ab omni
+alia re distinguunt, id est, quid sit definiunt.
+
+Α. Recte dicis, neque quicquam aliud fecisti
+praeterquam quod resolvisti vocem homo in partes
+suas». Fuisset autem satis illi, qui praedefinitum
+haberet animal, posuisse, homo est animal rationale.
+Definitio ergo definitionis accurata erit haec: dff-
+nitio est propositio cujus praedicatum est subjecti
+resolutivam.
+

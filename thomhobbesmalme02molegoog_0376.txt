@@ -1,0 +1,43 @@
+364 nn· MAGNITUDINE cmcnu.
+
+ποι». 1v. omnes cum ᾗ faciunt 5÷‚ quae est tertia pars max-
+’ imi 16. Causa autem hujusmodi proportionum
+obscura non est. Nam numeri bisectione, quam-
+
+quam infinities bisecti, nunquam devenietur ad ni-
+
+hilum, sed restabit semper unitas ; neque trisectio
+perpetua numerum quemquam reducet ad nihilum,
+
+sed restabit semper pars aliqua.
+
+PROPOSITIO lv,
+
+Quadrata a rectis lineis, quae aequales sunt arcui
+ab caeterisque consequentibus usque ad punctum
+M, simul sumpta, aequalia sunt quadrato ex PC sive
+
+'‘P-Quadratum enim ex PC latus habet quod est me-
+
+dium inter IP et ipsius duplum, id est (per prop. iii)
+inter CM, sive arcum CZ, et ipsius semissem. Sed
+quadratum ex ab cum consequentibus quadratis ex
+caeteris arcubus omnibus terminatis in bM, sunt
+(per lemma praecedens) dimidium quadrati ab arcu
+CZ. Quare quadratum quod illis omnibus est
+oequale, habebit pro latere mediam proportionalem
+inter arcum CZ, id est rectam CM, et ipsius semis-
+sem. Media autem illa est ipsa recta PC, nempe
+dupla rectae GQ, quae differentia est inter AG et
+Aa. Dico praeterea, quadrata arcuum eorundem
+una cum quadrato ab arcu CZ dimidium facere
+arcus ST, sive rectae BC; et proinde quadratum
+quod illis omnibus est aequale, habere pro latere
+rectam ΑΟ. mediam inter AB et AG.
+
+Coroll. Et propterea, quadrata ex omnibus illis
+arcubuS‚ assumpto quadrato ab arcu ST, (quod
+quadratum aequale est quadrato ABCD), aequalia
+esse duobus quadratis simul a radiis AB et Aa,
+cujus latus erit recta ducta a puncto D ad punctum
+

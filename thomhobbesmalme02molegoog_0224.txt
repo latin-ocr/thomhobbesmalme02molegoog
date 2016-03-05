@@ -1,0 +1,43 @@
+DIALOGUS
+
+Vl.
+
+212 nxAMINArlo ΕΤ ΕΜΕΝΒΑΤῙΟ
+
+est aequaliS‚ si sumantur in utroque eaedem parte-S,
+quae recta chorda est arcus sumpti in semicirculo,
+eadem recta erit sinus rectus arcus analogi in qua-
+drante. Itaque si ducatur recta parallela et aequalis
+rectae DB, terminata in DF et BG, secans cycloi-
+dem in l, parte duodecima arcus BCD, erit chorda
+Bl aequalis sinui recto partis duodecimae arcus
+quadrantis descripti radio qui sit aequalis rectae
+DB. Quare si in arcu quadrantiS‚ descripti a pa-
+rallela per l, sumatur pars ejus duodecima, et de·
+mittatur inde in chartae planum recta perpendicu-
+lariS‚ incidet illa in parallelam altitudinis quae
+transit per l.
+
+Similiter ostendi potest, quod si sumatur pars
+sexta, id est arcus 132, sinus rectus duarum duode-
+cimarum partium arcus quadrantis descripti a
+parallela per a, ea incidet perpendiculariter in
+parallelam altitudinis quae transit per 2. Et sic
+de caeteris partibus quadrantis, Itaque arcus qua-
+drantum descriptorum a rectis parallelis ipsi DB,
+decrescunt in ratione arithmetica, donec evanes-
+cant in puncto F. Plana autem quadrantum
+eorundem *decrescunt in ratione arcuum duplicata.
+Quare aggregatum quadrantum omnium, descrip-
+torum a dictis parallelis sumptis usque ad cycloi-
+dem, id est, solidum descriptum a plano cycloidali
+B f FDB‚ est ad solidum descriptum a conversione
+spatii cycloidalis externi BGFfB, et ad solidum
+descriptum a rectangulo DG, ut 2 ad 3. Quod
+erat demonstrandum.
+
+Con-sectarium i. Sequitur hinc quod solidum
+descriptum a triangulo FBD, solidum descriptum
+a bilineo BFB, et solidum descriptum a plano
+cycloidali externo BGFf B, esse inter se aequalia;
+

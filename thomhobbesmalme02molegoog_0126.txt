@@ -1,0 +1,42 @@
+114 EXAMmATlo m· EMENDA‘rlo
+
+nutocus eandem communem mensuram multiplicetur ; pro·
+*ἕξ-ἐ ducti radix est radicum numerorum propositorum
+
+summa. Exemplum operationis affert hoc. Sit
+radix quadratica 147 addenda radici quadraticae 12.
+Divisis ambobus numeris per maximam communem
+mensuram 3, fiunt quotientes 49 et 4 ; quorum
+radices sunt 7 et 2. Quadratus a (7 ÷2) est 81,
+qui ductus in eandem communem mensuram 3,
+facit 243, cujus radix quadratica aequalis est radi-
+cibus quadraticis utriusque numeri 147 et 12.
+substractionis autem exemplum hoc est. Quadre-
+tur, non ut ante, summa, sed differentia radicum 7 et
+2, quae est 5 ς cujus quadratus est 25 3 qui multipli-
+catus per eandem maximam communem mensuram
+3, facit 7 5; cujus radix est aequalis numero qui
+relinquitur deducta radice quadratica 12 ex radice
+quadratica 147 . ὑ
+
+Β. Num demo'nstrat hoc Oughtredus?
+
+A. Minime. Propositum enim illi puto erat
+algebram non omnibus scribere. sed geometris, qui
+quomodo demonstrandum esset ex ipsa operatione
+intelligere possunt.
+
+B. Demonstra hoc tu.
+A. Quod datum est sumu, radices numerorum
+
+147 et 12 esse commensurabiles, Sunt ergo eaedem
+radices numerorum quadratorum. Ut ergo 147
+ad 12, ita est quadratus numerus ad quadratum
+numerum. Dividantur ambo per eorum com-
+munem mensuram maximam 3, eruntque quoti-
+entes 49 et 4. Est erg0‚ ut 147 ad 12, ita quadratus
+numerus 49 ad quadratum numerum 4 ; et ut radix
+quadratica 147 ad radicem quadraticam 12, ita 7
+ad 2. Additis simul 7 et 2, fit 9 ; cujus quadratus
+est 81 ε qui numerus multiplicatus per communem
+

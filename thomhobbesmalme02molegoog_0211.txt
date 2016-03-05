@@ -1,0 +1,41 @@
+MATHEMA‘rlcAE nomERNAE. 199
+
+in puncto a. Motus enim centri non variat alti· mancus
+tudines circulatione acquisitaS, quae semper sunt in „L
+altitudinum parallelis. Deinde radio 2 β ducatur
+arcus circuli, secans parallelam altitudines secun-
+dam in b. Quando ergo punctum B propter mo-
+tum circularem deberet esse in suo arcu ad 2, erit
+propter motum rectum centri in eadem parallela
+altitudinis, ab b ; eritque arcus a a aequalis arcui
+B 1, et arcus β b aequalis arcui B 2. Item si radio
+3 γ describatur arcus γε, secans tertiam altitudinis
+parallelam in c, erit arcus γε tripla arcus B 1.
+Eadem methodo constituuntur reliqua puncta
+d, e,f‚ g, h, i, Ie, l; per quae puncta cylclois debet
+transire. Quae est descriptio cycloidiS.
+
+Consectarium primum. Manifestum hinc est,
+arcus omnes aa, βό, γε, usque ad arcum semi-
+circuli GF, esse in ratione continua arithmetica.
+
+Consectarium secundum. Manifestum quoque
+est, si plures fierent divisioneS‚ accuratiorem fore
+eycloidem, ratione arithmetica semper servata:
+et denique, si arcus ducerentur eadem methodo
+tot quot duci possibile est, impleretur spatium
+planum comprehensum duabus lineis curviS, nempe
+arcu semicirculi GF, et linea cycloide Fd B, et
+denique recta BG.
+
+PROPOSITIO 11.
+
+Spatium trilineum inclusum cycloide et duabus
+rectis BG, GF, aequale est semicirculo A BCD.
+
+Nam arcus GHF, λί, κΙε, ιί, oh, et caeteri,
+secundum rationem arithmeticam perpetuo decres-
+centeS, aequales sunt totidem arcubus semicir-
+culorum integris, descriptis a radiiS, quorum
+maximus quidem esset EG, caeteri vero minores
+

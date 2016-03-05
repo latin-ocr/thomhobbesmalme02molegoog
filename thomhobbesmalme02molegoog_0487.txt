@@ -1,0 +1,41 @@
+PROPORTIONALIBUS IN GENERE. 475
+
+Dividitur ergo recta GV bifariam in H, et cir· Arrsssmx.
+culus descriptus radio ΗΡ transit per puncta G, Ι,
+P, D, V, Y. Est ergo angulus GYV in semicirculo.
+
+Est igitur tum IGYV, tum GMXY, tum etiam
+(ut ante ostensum est) IMXV rectangulum.
+
+Itaque triangula rectangula GDM, MDX, XDV
+similia sunt: et propterea, quatuor rectae DG, DM,
+DX, DV continue proportionales: quarum DM, DX
+sunt mediae quaesitae. Item OR, OV, 01, OM con-
+tinue proportionales: quarum OV, 01 sunt mediae
+quaesitae. Item PY, PX, PM, ΡΙ continue propor-
+tionales : quarum PX, PM sunt mediae quaesitae.
+
+Coroll. Quoniam YX, GM sunt parallelae et
+aequaIeS, item GM, VR parallelae et aequaleS, erunt
+rectae VY et XR aequales.
+
+Idem demonstrari potest ex eo ipsn, quod recta
+DE est media proportionalis inter AD et ipsius
+semissem DV, hoc modo:
+
+Quoniam autem RCEy, γΟΙιμ sunt quadrata, et
+Ομ, ΟΕ aequales; erunt tres rectae Cy, yE, ΟΙι, con-
+tinue proportionales in ratione ΟΕ ad ΟΙι, id est,
+in ratione DC ad DE, vel DE ad DF. Si ergo a
+puncto Ο sumatur Οω aequalis ΟῘι, erunt Cy, Ομ,
+Οω continue proportionales. Quod si ab ω ducatur
+ad latus DC perpendiculariS, erunt in ΟΕ tria spatia
+continue proportionalia quorum minimum est ΙιΕ.
+Quoniam autem est ut Dc ad DE ita ΟΕ ad Ch,
+erit ratio DC ad DE ad rationem DC ad Dlz ut
+ratio triplicata ad rationem duplicatam. Sed ratio
+DC ad DX est duplicata rationis DC ad Dh. Nam
+non modo DF, DE, DC, sed etiam DF, DX, Dh
+sunt continue proportionales: et proinde ratio DC
+ad DI: duplicata est rationis DE ad DX. Sunt
+

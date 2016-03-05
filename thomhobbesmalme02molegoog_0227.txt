@@ -1,0 +1,41 @@
+MATHEMATICAE nonmnNAE. 2 Ι 5
+
+PROPOSITIO xvnl.
+
+Invenire centrum gravitatis segmenti ROB, con-
+tenti arcu quadrantis et subtensa arcus BC.
+
+Invento centro gravitatis trianguli rectilinei
+ABG, fiat ut segmentum BCB ad triangulum
+ABG, ita distantia inter centra gravitatis qua-
+drantis ABC et trianguli ABG ad aliam. Et illa
+inventa ponatur a puncto ν versus arcum in eadem
+recta Az‚ nempe vr, et erit r centrum quaesitum.
+Datur autem ratio bilinei BCB ad triangulum AB C,
+nempe ratio FR ad FE, et est centrum gravitatis
+segmenti BCB in recta Az, in qua sunt centra
+gravitatis tum trianguli tum quadrantis ABG.
+Datur ergo punctum r, id est, centrum gravitatis
+segmenti BCB. Factum ergo est, quod erat
+faciendum.
+
+B. Video etiam aliud sequi scitu non indignum,
+nimirum, planum, quod nascitur ab aggregatione
+rectarum, quae aequales sunt partibus arcus BC per-
+petuo a nihilo crescentibus juxta rationem arith-
+meticam‚quando applicantur ordinatim ad terminos
+curvarum sibi aequalium, nempe B 1, 132, B3, etc.‚
+aequales esse plano quod nascitur ab aggregatione
+sinuum rectorum eorundem arcuum, quando illi
+sinus ordinantur singuli ad terminos arcuum suorum
+in recta quae sit ipsi arcui BC aequalis, Nam quod
+aggregatum sinuum rectorum omnium ita ordinato-
+rum aequale est quadrato radii, demonstrarunt
+fortasse plures, sed invenit et demonstravit primus
+Christopherus Wren‚ astronomiae professor Gres-
+hamensis.
+
+mALocns
+
+vl.
+

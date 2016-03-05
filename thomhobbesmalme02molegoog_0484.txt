@@ -1,0 +1,40 @@
+472 ΒΕ. manns
+
+A xxxxxxxx neque propositionem, neque consequentiam ullam
+falsam reperio, peccatorum omnium contra logicam
+absolvendam censen. Neque illorum regulam il-
+lam utcunque speciosam legisse me memini in
+Aristotele, neque in alio scriptore logico.
+
+Exhibenda mihi igitur est demonstratio legitima,
+ubi assumptum aliquod ad constructionem, nou
+tamen adhibetur ad demonstrationem. Demon-
+strabo autem, absque trisectione anguli, inter rec-
+tam datam et ipsius semissem quaenam sint mediae
+duae proportionales
+
+Sint datae (fig. 3.) duae rectae AD, DV, facientes
+unam rectam AV. Sit autem DV semissis ipsius
+AD ; fiatque a majore AD quadratum ABCD. In·
+ter AD et DV inveniatur media proportionalis DE;
+cui in lateribus BC, AD ponatur aequalis AO et BR;
+jungaturque RO, et producatur.
+
+Secetur DO bifariam in K: centro autem K, in-
+tervallo KV, describatur circulus VIMX, secans CD
+in X, AD in M, et Ro productam in I. Quoniam
+ergo RO, CD sunt parallelae, anguli deinceps ad Ο
+et D sunt recti; et DK, ΚΟ aequales3 et proinde
+etiam ΟΜ, DV aequales, AEquales item sunt IK,
+KX; et IX' diameter circuli VIMX, eademque
+aequalis rectae MV. Itaque ductis rectis VX, XM,
+ΜΙ, IV, erit VIMX rectangulum ε et tres rectae
+DM, DX, DV continue proportionales, Divisis
+autem MX, IV bifariam in Z et L. ducta ZL transi-
+bit per K; et secabit tum MX tum IV ad angulos
+rectos.
+
+In recta IK sumatur IP aequalis DV. Erit ergo
+reliqua PX aequalis DM, et PK aequalis DK: item
+LK secabit angulum DKP bifariam.
+

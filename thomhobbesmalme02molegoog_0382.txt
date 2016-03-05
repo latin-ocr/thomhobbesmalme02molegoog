@@ -1,0 +1,42 @@
+mor. 11.
+
+“ 370 nn MAGNITUDINE officum.
+
+enim aequales sint PC, ld, dempta communi Pd,
+restabunt IP, Cd aequales: unde sequitur G g, BQ,
+quae ipsis IP, ed sunt aequales utraque utrique,
+aequales etiam esse inter se.
+
+Coroll. ii. Recta ΟΩ est aequalis rectae Bg. Duae
+enim Gg, B g, compositae faciunt totam BG.
+
+Coroll. iii. ΕΚ vel Hk aequalis est HS. In tri-
+angulo enim aequilatero KVO, quia recta VKUdupla
+est rectae ΕΚ vel Hk, etiam recta VO dupla erit
+ejusdem ΕΚ vel Hk. Est autem eadem dupla
+rectae HS, quia 10 est quadratum cujus latus est
+aequale HS. Itaque juncta Sk, et producta ad DA
+in i, aequalis erit rectae AO sive rectae Ae.
+
+SCHOLIUM.
+
+Ex iis quae hactenus demonstrata sunt, facile est
+cuivis rectae datae aliam rectam invenire, quae habet
+ad illam rationem semidiametri ad arcum qua-
+drantis circuli,an semidiametro descripti. Exempli
+causa, si sit data recta Ru, et quaeratur recta aequa·
+lis arcui quadrantis descripti semidiametro Ru,
+ducatur a centro circuli A recta An, et producatur
+ad ΒΜ in Ε, erit BE aequalis arcui descripto ab
+Rn. Similiter si quaeratur recta linea aequalis
+arcui quadrantis descripti a lineola nV, ducatur
+AV et producatur ad ΒΜ in w, eritque Ew vel EL
+aequalis arcui quadrantis descripti ab nV. Item si
+data recta qualibet in recta ΒΜ, quaeratur arcus
+circuli ipsi aequaliS‚ invenietur hoc modo. Sit data
+recta AE ; sumatur in ΒΜ recta Ba aequalis ΑΕ, et
+ab a demittatur perpendiculariter recta αξ, secans
+AM in ζ, et a puncto ἕ ducatur CO parellela lateri
+BC, erit arcus quadrantis descripti ab ΑΩ aequalis
+rectae QG sive ΑΕ.
+

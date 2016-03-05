@@ -1,0 +1,41 @@
+76 EXAMINATIO ET EMENDATIO
+
+nameus niat. Quod ni fecisset, nihil inde ut a principio
+
+¹¹· demonstrasset.
+
+B. Quid ita? Definitio circuli apud Euclidem,
+non est descriptio generationis circuli, sed gene-
+rati: at nihilo minus constructio trianguli aequila-
+teri inde ab Euclide demonstratur.
+
+A. Demonstratio illa dependet quidem ab ea
+definitione: sed ipsa definitio dependet a postulato
+tertio, nempe, quo gratis sumitur posse circulum
+quovis describi intervallo, Jubet erg0‚ ad con-
+structionem trianguli aequilateri, describi circulum;
+quod quo modo faciendum sit, definitio Euclidea
+non docet. Quomodo enim inveniri medium illud
+punctum potest, nisi prius descriptus sit ipse cir-
+culus? Vidit ergo Euclides definitionem analo-
+giae, nisi ostenderet quomodo eoedem rationes
+fierent, inutilem fore ad sequentia. Itaque defini-
+tionem per generationem addidit hanc: In eadem
+ratione magnitudine-s· dicuntur esse, prima ad se-
+cundam, et tertia ad quartam, cum primoe et ter-
+tice seque multiplicia, a secundae et quartoe oeque
+multiplicibuS, qualiscunque sit haec multiplicatiO,
+utrumque ab utroque, vel una deficiunt, vel una
+nequalia sunt, vel mia excedunt, si ea sumantur
+quoe inter se respondent. Sed invenire, per hanc
+definitionem, hujusmodi quatuor quantitates im-
+possibile est: quia multiplicatio per omnes nume-
+rOS, cum infiniti sint, est impossibilis. Non est
+ergo definitio haec, sed hypothesis
+
+B. Recte quidem dicis; est autem hypothesis
+illa vera. Vera iuquam est, sed non principium,
+quia demonstrabilis est, et ab Hobbio (cap. xiii.
+art. 12, libri DE conpone) demonstrata; sed a
+definitione ejusdem rationis per generationem,
+

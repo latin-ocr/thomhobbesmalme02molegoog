@@ -1,0 +1,41 @@
+142 ExAmNA'rro Er EMENDA‘rro
+
+nmocus primum, erit terminus ultimus tertius; si fiat ex
+
+, xv. . cubo in primum, erit ultimus quartuS, et sic dein-
+ceps. Dato ergo terminorum numero, cognosco
+quota sit in ascendentibus potestas illa, ex cujus
+multiplicatione in terminum primum fit ultimus.
+Diviso ergo termino ultimo per primum, innotescit
+potestas illa cujus radix propria est communis mul-
+tiplicans. Exempli causa: si sit progressio data
+3, 6, 12, 24, 48, 96 ; et communis multiplicans M;
+progressio haec 3, 3M‚ 3 MM, 3M MM, 3M MMfM,
+3 ΜΜ ΜΜ Μ, eadem erit quae est data. Datur
+autem numerus terminorum 6. Fit ergo 96 ex po-
+testate quarta in 3, id est, ex multiplicantis surdo-
+solido in 3. Diviso ergo 96 per 3, habetur multi-
+plicantis surdo-solidum 32, cujus radix propria,
+nempe 2, est communis multiplicans. Quo multi-
+plicante cognite, quilibet terminus intermedius
+statim invenitur, ut qui fit ex 3 in 2, vel in 4, vel
+in 8, vel in 16, etc.
+
+B. MethoduS, ut quae procedit ab ipsa termino·
+rum generatione, recta est.
+
+A Capite tricesimum secundum loquitur de
+origine et usu logarithmorum, ut ex primis ejus ver-
+bis manifestum est, imperite. Verba haec sunt.—
+Est autem ea, quam superiore capite tradidimus,
+regula (de terminis remotioribus intermediis quasi
+per saltum inveniendis), maritimi quidem momenti
+regula ; non tam ob eum quem jam ostendimus
+illius usum, quam ob insigniora, quoe inde deflux-
+erunt, commoda. Ex hoe enim fundamento dependet
+mirificum illud logarithmorum inventum—Nae, ille
+Nepperi inventoriS, et Briggii logarithmorum inven-
+torum excultoriS, clarissimis ingeniis non multum
+
+tribuit, qui principium tam facile inventionis as-
+

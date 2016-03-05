@@ -1,0 +1,44 @@
+· paor. v.
+ε-Ὓ--α
+
+366 ΒΕ ΜΑοΝιτυυιΝΕ cmcum.
+
+ad arcum descriptum ab ΑΕ, ita arcus descriptus
+ab AX ad DS vel Ro. Erit etiam ut semissis arcus
+BD ad semissem arcus descripti ad AE, ita semis·
+sis arcus descripti ab AX ad Ro, Transibit ergo
+arcus ab AX per punctum Ο. Sed AO media est
+proportionalis inter duplam AR et rectam Ro, Est
+autem eadem AO media proportionalis inter AB
+et quatuor ejus quintas ς et propterea potest vice-
+cuplum ejus quod potest pars quinta radii AB; id
+est, quadratum ab ΑΟ est ad quadratum ABCD ut
+4 ad 5. Quare quadratum ab Ro est ad quadratum
+ABCD ut 2 ad 5.
+
+Coroll. i. Sequitur hinc, si ducatur recta gd pa·
+rallela BC, secans AB in g, illam dg mediam esse
+proportionalem inter Ag et ipsam dg3 et proinde
+utramvis earum aequalem esse dimidio arcus per
+BD, id est aequalem esse arcui BP.
+
+Coroll. ii. Quia Ad potest quintuplum ejus
+quod potest semiradius BE, poterit dg quintuplum
+ejus quod potest quarta pars radii AB; et ambae
+simul in unam rectam compositae possunt decem
+semiradios ; sequitur eam quae potest decem semi-
+radioS, aequalem esse arcui BD.
+
+PROPOSITIO vl.
+
+Recta DS aequalis est duabus quintis arcus BD.
+
+Cum enim DS (per praecedentem) media sit pro-
+portionalis inter AB vel DC, et duas ipsius quintas,
+erit arcus ST media proportionalis inter arcum
+BD et duas quintas partes ejusdem arcus, Sunt
+autem continue proportionales duae quintae radii
+AB vel DC, recta DS, recta DC, arcus BD; con-
+tinue etiam proportionales duae quintae arcus BD,
+totus arcus ST, et arcus BD. Sed in utroque or-
+

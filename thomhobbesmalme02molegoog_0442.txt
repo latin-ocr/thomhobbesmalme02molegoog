@@ -1,0 +1,50 @@
+CAP. XVI·
+
+Do rationum
+calculo.
+
+430 ΠΕ PRINCIPIIS ET RATIOCINATIONR
+
+habent rationem 6 ad 4, posteriores duae rationem
+
+2 ad 8.
+Habet etiam methodum auferendi rationem mi-
+
+norem a majore. Sit ratio l ad 4 auferenda ratione
+2 ad 4. Fiat ut 2 ad 4, ita antecedens 1 ad aliam
+2: et collocentur ordine tres numeri l, 2, 4. Ratio
+l ad 4 componitur ex rationibus l ad 2, et 2 ad 4.
+
+Quare ablata ratione 2 ad 4 ex ratione l ad 4,
+
+reliqua est ratio 1 ad 2.
+Similiter, si ex ratione 3 ad 2 auferenda sit ratio
+
+2 ad 3, fiat ut 2 ad 3, ita 3 ad aliam 44. Nam.
+positis ordine, 3, st, 2 ; ratio 2 ad 3, id est, ratio
+3 ad 43, aufertur a ratione 3 ad 2, et relinquitur
+ratio 4} ad 2. Atque hae methodi ambae compro-
+
+bantur a Clavio ad prop. 23, Elem. vi.
+
+ 
+
+OAP. XVII.
+
+RESPONSIO An QUAEDAM QUAESITA CLAvn.
+
+Rnsponnno jam ad quaesita Clavii, et primo ad·
+hoc: Quifieri potest, ut positis tribus magnitudi-
+nibus oequalibus 4, 4, 4, ratio primoe ad tertiam
+dupla sit rationis primoe ad secundam, cum sit
+omnino eadem 2
+
+Quoniam ratio primae 4 ad secundam 4, quan-
+tumvis multiplicata nunquam superabit rationem
+eandem 4 ad 4, neque quantumvis per medias in-
+terpositas divisa ab illa superabitur 2 manifestum
+est rationem 4 ad 4 (et in universum, aequalis ad
+aequale) non esse quantitatem, neque posse aequa-
+litates alias aliis majores vel minores esse. Inae·
+qualitatum autem alia alia major esse potest, et
+

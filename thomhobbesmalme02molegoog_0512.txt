@@ -1,0 +1,47 @@
+500 cunm-10 spnAEnAE.
+
+mor. ¹¹· scriptuS‚ et reeta proxime consequenS, se mutuo
+
+secent in recta AO: ιιι quemadmodum arcus ab
+AC secat YQ in P, ita arcus ab AY secet Ze in d.
+
+PRoPosl'rlo X.
+
+Calculus numerica-s· quadratorum a septem ante-
+dictis rectis AO, AY, AZ, etc.
+
+Manifestum est (per Eucl. i. 47) quod quadratum
+ab AO ad quadratum ab AO vel ΑΡ, est ut 5 ad 4;
+quia GC, aequalis AC, secta est bifariam in O : et est
+ut AO ad AC vel ΑΡ, ita ΑΡ ad AY vel YQ.
+
+RursuS, quia YQ, parallela GC, secta est bifariam
+in P, quadratum ab AY vel YQ est ad quadratum
+a Zc ut 5 ad 4: quia GC, Zc sunt parallelae, et recta
+ΑΟ secat areum Yb ad d, et dividitur Ze bifariam
+in d.
+
+Item, quadratum a Zc, quod est 10 quorum ‹AC
+quadratum est 16, est ad quadratum ab 1112, quod
+est 8 quorum AC quadratum est 16, ut 10 ad 8, id
+est ut 5 ad 4.
+
+. Item, quoniam quadratum ab AC ostensum ast
+aequale 10 quadratis a quinta parte arcus BC, dimi-
+dium ejuS, 'hoc est quadratum ab JaL, aequale est
+
+quinque quadratis ab eadem quinta parte arcus BC.
+Sed ostensum est rectam eb, vel Ae, aequale esse
+
+duabus quintis arcus BC, et proinde quadratum ejus
+
+aequale esse quatuor quadratis a quinta parte arcus
+BC.
+
+Est ergo quadratum ab hL sive Ah, ad quadratum
+ab eb sive Ae, ιιι 5 ad 4.
+
+Postremo, oum quadrata ab AO, ΑΖ, Ae sint cou-
+tinue proportionalia in ratione 16 ad 10 sive lO'ad
+61, erit quadratum ab Ae δὲ eorum quorum quadra-
+

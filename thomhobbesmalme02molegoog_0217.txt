@@ -1,0 +1,46 @@
+MATHEMArrcAE nomnnNAE. 205
+
+PROPOSITIO vn.
+
+Spatium cycloidale internum BA f, comprehen-
+sum a parte cycloidis B f et duabus rectis AB, A f,
+superat semicirculum genitorem, tantum quantum
+est trilineum 6 sm.
+
+Nam, per praecedentem, spatium quadrilineum
+Bcem aequale est quadranti ABC. Quare qua-
+drilineum AB m6 aequale est semicirculo genitori ;
+cui si addatur trilineum m6f, fit spatium cycloidale
+integrum BA f. Spatium ergo cycloidale BA f, etc.
+Quod erat demonstrandum.
+
+PROPOSITIO VIII.
+
+Si ducatur recta DC, et producatur ad BG in
+N ; juncta FN transibit per punctumf.
+
+Cum enim DN transeat per C, erit BN aequalis
+diametro BD. Et quoniam BG est aequalis arcui
+semicirculi genitoriS, erit GN excessus quo arcus
+BCD superat diametrum BD. Est autem 6E
+semissis ipsius BG, et 6 f semissis diametri sive
+rectae BN. Quare recta Es est semissis rectae GN.
+Etiam FE est semissis FG. Ut ergo FG ad GN,
+ita FE ad E f. Transit ergo FN per punctum f.
+Quod erat demonstrandum.
+
+PROPOSITIO IX.
+
+Triangulum rectilineum EFf aequale est spatio
+intercepto inter arcum quadrantis ABC et ejusdem
+subtensam.
+
+Triangulum oEF aequale est quadranti ABC.
+Et quoniam 6 f aequalis est semidiametrO, erit trian-
+gulum Ffo aequale dimidio quadrato ab f 6. Re-
+liquum igitur triangulum rectilineum FEf aequale
+
+DIALOGUS
+
+VI.
+

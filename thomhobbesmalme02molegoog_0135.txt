@@ -1,0 +1,37 @@
+MATHEMATmAE Romanula. 123
+
+si rectangulum dicatur esse 12, intelligitur conti· »mouns
+nere 12 rectangula aequalia et toti similia; quod , ¹¹¹· ,
+si dividatur per 6, intelligitur per 6, sex ex istis
+rectangulis. Ita ut si quaeratur quoties 6 rectan-
+gula contineantur in 12 rectangulis ejusdem cum
+illis magnitudiniS, respondebitur (secundum quo-
+tientem) 2. 1 taque applicatio geometrarum et
+divisio arithmeticorum eadem fere res est, ut et
+ductio geometrarum et arithmeticorum multipli-
+catio; nisi quod multiplicatio lineae per numerum,
+nunquam producit superficiem, sed lineas; nec
+applicatio numeri ad planum facit unquam lineam.
+Quod autem latuS, id est linea, per applicationem
+prodeat, cum per divisionem prodeat numerus rec-
+tangulorum, id contingit, quia similitudo et aequa-
+litas rectangulorum facit ut alterum quidem indicet
+numerum rectangulorum similium et aequalium,
+alterum vero numerum multiplicantem. Neque
+in rectangulis tantum, sed etiam in quibuslibet
+parallelogrammis idem accidit. Quod cum ille non
+videret, mire se torquet, cruda et indigesta cogitata
+sua explicare cupiens, Itaque divisionem esse ne-
+gat, nisi καταχρηιηικῶς, quotientemque non proprie
+dici id quod prodit, nec respondere questioni
+quot aut quoties ; cum tamen manifestum sit,
+id, quod prodit, esse latus cujus segmenta sunt
+numerus segmentorum indicans quoties numerus
+minorum parallelogrammorum contineatur in pa-
+rallelogrammo toto, Exempli gratia; in parallelo-
+grammo ABCD, diviso AB in 6 partes aequales,
+et Ac in 2 partes aequales ΑΕ, EC, latus AC,
+nempe quotienS, est 2, indicans sex parallelo-
+gramma contenta in A F contineri bis in toto
+parallelogrammo B C. Deinde paulo post, ubi
+

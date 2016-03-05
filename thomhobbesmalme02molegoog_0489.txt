@@ -1,0 +1,44 @@
+PROPORTIONAMBUS IN GENERE. 477
+
+describatur quadratum DFrg. Erit autem punc· Arrnumx·
+tum r in diagonali DB. *γά
+
+Describatur quadratum Dqu, et erit punctum
+p in eadem diagonali DB.
+
+Describatur quadratum DEkl ; cujus etiam punc-
+tum Ic erit in eadem diagonali DB. Secet autem
+lk producta latus BG iu n, et rectam xp produc·
+tam in u et rectam Fr productam in 8.
+
+Describatur denique quadratum DMih, cujus
+punctum i erit in eadem diagonali DB ; cujus qui-
+dem latus ln· productum secet ln in ο, et AB in t ,·
+latus autem Mi productum secet BC in m.
+
+Ostensum autem est tres rectas DM, DX, DV,
+id est Mi, qp, gr esse continue proportionales;
+item OM, DV, id est OM, gA esse aequales; et
+proinde, dempta communi gM‚ aequales esse AM
+et og, id est, ti, vel im, vel FE, et propterea rec-
+tam gM aequalem esse EC, vel Im, vel οε.
+
+Quoniam jam lk media est proportionalis inter
+In et Is, erunt tres rectae cs, lle, ln continue pro-
+portionales. Erunt item gr, qp, Mi, id est ls, Iu,
+Io continue proportionales, Est autem utriusque
+analogismi eadem antecedens ls. Quare (per prop.
+28, Elem. xiv) ratio ln ad lo duplicata erit rationis
+lle ad lu. Sed ut lle ad lu, ita est Mi ad lk.
+
+Ratio ergo ln ad lo duplicata est rationis Ζο, sive
+Mi, ad ek.
+
+Sed ratio quadrati DhiM ad quadratum DEM
+duplicata est rationis Mi, id est lo, ad lle.
+
+Si ergo quadratum DhiM intelligatur ductum
+perpendiculariter in suum latus Mi, item quadra-
+tum DEkl perpendiculariter in rectam In aequalem
+lateri AD, fient duo parallelipipeda quorum latera
+

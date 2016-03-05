@@ -1,0 +1,50 @@
+102 ExAmNATlo Εἰ· EMENnAno
+
+numana tionem rectangulorum‚ (et triangulorum, quae sunt
+
+111.
+κ-Ὗ-κ
+
+ipsorum dimidia), in geometria; et extra potes-
+tates numerorum in arithmetica; algebrae locus
+nullus est, neque in illis analysis magis est quam
+synthesis,
+
+B. Exemplum ostende algebrae per potestates;
+ita dividens 8, ut quadratum unius partis sit ad
+rectangulum sub tota et reliqua parte, ut 2 ad l.
+
+Α. Radix quadrata quaesiti sit A. Reliquus ergo
+numerus est 8-A: quadratum ipsum, AA= rectan-
+gulum quaesitum, 8 >< (8-A). Vis ergo AA= 8 >< (s-A)
+:2 2 : l esse proportionales.
+
+B. volo.
+
+A. Sunt ergo AA= 16 x (s-A); et additis utrin-
+que 16 A, erunt AA÷ 16 A = 16 κ 8 = 128. Quare
+16 ψ A, α 128, A, sunt continue proportionales.
+Datur ergo A; et proinde etiam AA, et rectan-
+gulum 8><(8-A).
+
+B. Sed datum esse A, nondum satis perspicio.
+
+A. Datur media proportionalis inter extrema
+16÷A et A, nempe, d 128. Quare descripto cir-
+culo, cujus diameter est 16, a quovis puncto ejus
+ducatur tangens aequalis d 128; ab extremitate
+ejus ducatur per centrum recta ad adversam cir-
+cumferentiam, eritque pars ejus intercepta inter
+tangentem et circumferentiam aequalis quaesitae A;
+ut manifestum est per Eucl. Elem. iii. prop. 36.
+
+B. Ac Vieta in hujusmodi rationibus exponendis
+alia utitur operatione. Nam ex medio puncto
+differentiae cognitae describit circulum, cujus radius
+potest radicem numeri 128, et semissem differentiae.
+
+A. Eodem recidit utraque operatio.
+
+B. Objicio etiam nondum inventam esse illam
+radicem. Numeri enim 128 radix quadrata nulla est.
+

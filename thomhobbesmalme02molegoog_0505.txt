@@ -1,0 +1,42 @@
+QUADRATURA crucum. 493
+
+Jam triangulum AGO ad triangulum AYQ est paor 1
+
+ut 5 ad 4.
+
+Ergo trapezium CYQG est l, quorum triangulum
+AGC est 5, et triangulum AYQ 4, et triangulum
+ALh l}- Et quia triangulum AYQ sectori ACL
+est aequale, triangulum AGC est 5, quorum sector
+ACL est 4. Ergo trilineum CLG est l, quorum
+sector ACL est 4 ε idemque trilineum CLG aequale
+trapezio CYQG.
+
+Quoniam ergo triangulum ALh est 14, quorum
+trilineum CLG est 1, et trilineum CLBG (ipsius
+CLG duplum) 2, qui est excessus quadrati ABGO
+supra quadrantem ABG: et trilineum CLI» dupli-
+catum, nempe excessus quadrantis ABG supra Ale
+duplicatum, erit 3 quorum trilineum CLBG est 2.
+Est ergo excessus quadrati ABGO supra quadran·
+tem ad excessum quadrantis supra dimidium qua-
+drati ABGC, ut 2 ad 3. Quod erat demonstran-
+dum.
+
+ 
+
+CUBATIO SPHAERAE.
+
+PROPOSITIO 11.
+
+Sphaeroe cujus diameter est ΟΕ, :equalem invenire
+cubum.
+
+S1 enim (supposito quod planum quadrati FGHI
+sit in horizonte) erigantur in punctis C, Y, P, Q,
+L, β, Β, Ὺ, Τ, K, δ, Ε, π, ε, S, Ν, Ζ, D, η, R, Μ, θ, per-
+pendiculares altitudine quanta est recta AO super
+horizontem: planum ductum per illarum terminos
+
+5...ssae
+

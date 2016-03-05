@@ -1,0 +1,46 @@
+GEOMETRARUM. 421
+
+magnitudine: nam si non essent aequiangulae, aut can». ιιι.
+non haberent latera circa ‘aequales angulos propor- m
+tionalia, non esset inter eas ulla figurae similitudo. ”mmm
+Eadem ergo est ratio AB ad DB, quae CA ad DF.
+
+-Sed ut AB ad BD, ita ostensa est esse CA ad EC.
+
+Sunt ergo DF et EC aequales ε et proinde (ducta
+
+DE) triangula ADE, ABC sunt similia.
+
+· Ad definitionem hanc, propositiones illae quae
+sequuntur in Elemento quinto, de permutatione,
+conversione, compositione etc„ rationum, accur-
+
+runt: et ad lucem ejus omnes fere sese demon-
+
+strant. Euclidis autem demonstrationes duplo
+
+plures sunt, propterea quod idem in quantitate
+continua seorsim a numeris demonstrat ε et multo
+longiores quam erat necesse, propter sterilitatem
+definitionis rationis.
+
+“ Sed quid''‚ inquieS, “ opus est theorematum
+pure geometricorum demonstrationes a motu pe-
+tere ?” Respondeo primo: demonstrationes omneS,
+nisi scientificae sint, vitiosae sunt; et nisi a causis
+procedant, scientificae non sunt. SecundO, nisi
+conclusiones a constructione, id est, a descriptione
+figurarum, id est, a linearum ductione demonstren-
+tur, vitiosae sunt. Jam omnis linearum ductio mo-
+tus est: itaque vitiosa est omnis demonstratio,
+cujus principia prima non continentur in defini-
+tionibus motuum quibus figurae describuntur. Sed
+post theoremata aliquot prima demonstrata, caetera
+ab his dependentia non egent demonstratione quae
+fit a motu, ut quorum demonstrationes in demon-
+strationibus priorum continentur: nec alia re egent,
+ut intelligantur, praeter illorum priorum explica-
+
+tionem, vel conversionem.
+a
+

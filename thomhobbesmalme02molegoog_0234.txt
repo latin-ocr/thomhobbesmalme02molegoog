@@ -1,0 +1,43 @@
+222 ExAM1NAT1o m· ΕΜΕΝΒΑΤΙΟ
+
+numana quod omnis effectus naturalis ad omnem effectum
+
+,ᾆξ’-θ naturalem rationem habet compositam ex rationi-
+bus earum rerum quae causas eorum componunt
+integras. Nihil enimin effectu esse potest, quod
+non fuit in aliqua parte causae suae; nec in causa,
+quod non in effectum derivetur.
+
+B. Mihi nova quidem haec contingit doctrina,
+attamen verissima est; et procedens a contempla-
+tione quae in iis qui jurant in verba magistrorum,
+raro invenitur. Videamus jam consectaria.
+
+Comect. i. Conus, qui fit a conversione trianguli
+FDB circa DB diametrum circuli genitoriS, est ad
+conum qui fit a conversione ejusdem trianguli circa
+DF, ut DF ad DB. Sunt enim ut ipsi cylindri.
+Habent autem verticeS, ille in B, hic in F.
+
+Consect. ii. Solidum factum a conversione plani
+cycloidalis DB s F circa DB, est ad solidum factum
+a conversione ejusdem plani cycloidalis circa DF,
+ut DF ad DB. Sunt enim ut ipsi coni.
+
+Con-sect. iii. Excessus cylindri facti a conversione
+rectanguli DG circa DB, super solidum factum a
+conversione plani cycloidalis DB f F circa eandem
+DB, est ad excessum cylindri facti a conversione
+rectanguli DG circa DF, super solidum factum a
+conversione plani cycloidalis DB f F circa eandem
+DF, ut DF ad DB. Sunt enim hi quoque ut cylin-
+
+dri ipsi.
+PROPOSITIO xxn.
+
+Centrum gravitatis semicirculi, cujus diameter
+est DF, id est, recta aequalis arcui BCD, estin
+recta quae, ducta a centro, dividit ipsum semicircu-
+lum bifariam, et distat a centro D tantum quanta
+est recta aequalis duabus tertiis semiradii AB.
+

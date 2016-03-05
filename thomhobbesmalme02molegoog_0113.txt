@@ -1,0 +1,44 @@
+MATHEMAncAE HomnRNAE. 101
+
+aequales inter se ΑΒ, CF, (per axioma octavum mamone
+
+Elementi primi Euclidis) et angulus BFC aequalis
+angulo BAC, (per Eucl. i. 4.) Qui autem ad
+punctum B in recta linea DF constituuntur anguli,
+omnes simul aequales sunt omnibus simul angulis
+constitutis ad punctum C in recta AC producta ad
+G. Nam partes simul omnes aequales sunt toti
+utrobique. Cum ergo angulus BCF aequalis sit
+angulo ABG, et FBC aequalis BOA, erit reliquus
+FCG aequalis reliquo DBA sive BAC. Sunt igitur
+rectae AB, CF, quae ostensae sunt aequaleS, incli-
+natae ad easdem partes secundum angulos aequaleS.
+Parallelae autem sive aequidistantes lineae defini-
+untur esse illae, quae ab aequalibus rectis aequaliter
+ad easdem partes inclinatis distinentur. Parallelae
+ergo sunt BF, Ac. Atque hactenus ratiocina-
+tionem, qua tres anguli trianguli rectilinei duobus
+rectis aequales esse demonstrantur, in partes ex
+quibus erat composita resolvimus; quae analysis est.
+
+B. Quomodo autem ex illis erat composita?
+
+A. Sic. Ex eo quod AC, DF sunt parallelae,
+concludunt angulum DBA aequalem esse angulo
+alterno EAG, et angulum FBC alterno BCA, et
+angulum ABC communem; et proinde tres DBA,
+ABC, FBC aequales esse tribus BAC, ABC, AC B,
+unumquemlibet uni. Scienduma utem est, quod si
+analysis plenissime perageretur, non minus prolixa
+esset quam ipsa esset demonstrati0‚ sumpta ab ipsis
+principiis usque ad illatam conclusionem.
+
+B. Quin natura analyseos talis sit qualis hic
+explicatur, dubitari non potest. Attamen ne ima-
+ginari quidem possum quo facto idem fieri possit
+per algebram.
+
+A. Neque hercle erg0. Nam extra compara-
+
+111.
+

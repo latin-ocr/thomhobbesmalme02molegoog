@@ -1,0 +1,42 @@
+GEOMETRARUM. 433
+
+Etiam in tribus aliis quibuslibet magnitudinibus, cu. xvu.
+quarum prima est maxima, tertio vero minima, m
+idem continget: ut in his numeris 12, 8, 2, ubi ra· gffgffvssw
+tio primae ad secundam est eadem quae 3 ad 2,
+ratio autem secundae ad tertiam eadem cst quae 2
+ad ³}- Componamus has primo juxta definitionem
+traditam ab Euclide, Def. 5, Elem. vi, per multipli-
+cationem inter se tum antecedentium tum conse-
+quentium. Oritur autem ratio 12 ad 2, cujus par-
+tes componentes erunt rationes 3 ad 2 et 2 ad ξ ;
+id est, (multiplicatis omnibus terminis per 4),·ratio
+12 ad 2 composita cx rationibus 12 ad 8, et 8 ad 2.
+
+Deinde componamus easdem per regulam com-
+positionis aliam, traditam a Clavio ad Prop. 23.
+Elem. vi. Fiat ergo ut 3 ad 2, ita 2 ad aliam, ὲ.
+Expositisque numeris 3, 2, ᾖ, erit ratio composita 3
+ad ὲ aequalis rationibus componentibus 3 ad 2 et 2
+ad ²}- Nam multiplicatis omnibus terminis per 4,
+nascentur numeri 12, 8, 2, iidem qui prius,
+
+Itaque nihil video quo minus propositio illa,
+nempe, ratio primi* ad ultimam composita est ex
+rationibus intermediis, pro vera habeatur. Adverto
+etiam obiter, rationes componendi methodum hanc
+Clavianam esse veram rationum additionem: non
+autem, ut vult Clavius, multiplicationem.
+
+Quomodo autem eadem propositio, nempe, rati-
+onem primi ad ultimum* compositam esse ex ratio-
+nibus intermediis, locum habeat quando una ratio
+est majoris ad minus, altera minoris ad majuS,
+difficile explicatu est. Sint continue proportio-
+nales 1,10‚100: sed alio ordine collocatae, ut l, 100,
+
+10. Cum ergo per propositionem illam universa-
+
+* Sic edit. 1668.
+VOL. IV. F F
+

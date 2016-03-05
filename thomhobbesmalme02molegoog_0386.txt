@@ -1,0 +1,43 @@
+374 nn MAGNITUDINE cmcum.
+
+mor. ιιι. transire per cubi centrum, sphaera in qua circulus
+
+“⁷'‘ ille esset maximus tanget omnia cubi latera; et
+propterea sphaerae circumscriptus erit. Quoniam
+autem latus cubi circumscripti AB potest triplum
+ejus quod potest CL vel CM; erit cubus a CM, is
+qui inscriptibilis est eidem sphaerae, cujus maximus
+circulus describitur semidiametro IE. Demonstra-
+tur autem ab Euclide, Elem. xiii. prop. 15.
+
+Coroll. Sequitur hinc ductam NL esse latus
+tetrahedri in eadem sphaera inscripti. Potentia
+enim rectae NL dupla est potentiae CL ; quare po-
+tentia BC potentiae ejusdem NL est sesquialtera ;
+et proinde, per Elem. xiii. 13, erit recta NL latus
+tetrahedri inscripti sphaerae eidem.
+
+PROPOSITIO XIII.
+
+Rectae AB, Ag, AR, AG sunt continue propor-
+tionales.
+
+Ostensum enim est (prop. 7) rectas gd, GP, RO
+esse continue proportionales. Ostensum etiam est
+(prop. 8) esse ut BC ad gd, ita RO ad GI vel AG.
+Sunt ergo quatuor rectae AB, Ag, AR, AG con-
+tinue proportionaleS.
+
+Coroll. Sequitur hinc cubum a BC duplum esse
+
+cubi ab Ag; et cubum ab Ag duplum esse cubi
+ab AR, et cubum ab AR duplum esse cubi ab AG.
+
+PROPOSITIO XIV.
+
+Compleatur quadratum A g dz, et producatur κά
+ad BC in π ; producaturque gd ad DC in ξ, et inter
+DC et ΒΞ sumatur media proportionalis Dm; et
+erit quadratum a Dm aequale circulo descripto
+semidiametro AG vel IH. Est enim ΒΜ aequalis
+

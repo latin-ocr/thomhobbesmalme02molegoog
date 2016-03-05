@@ -1,0 +1,45 @@
+MATHEMATICAE nonmRNAE. 143
+
+signat, quam est ex datis primis terminis progres-
+sionis inventio ulteriorum. Praeterea, quod per
+eam regulam inveniri putet logarithmos termino-
+rum intermediorum, falsum est. Nam e contrari0‚
+qui hac utuntur regula, non logarithmos per ter·
+minos progressioniS‚ sed terminos progressionis
+inquirunt per logarithmos datos, nimirum, per
+potestatum ascendentium indices arithmetice pro-
+portionaleS.
+
+B. Unde ergo illi in mentem venire potuit tam
+insigne inventum.
+
+A, Observaverat ille inter duas quantitates ex-
+tremaS, cum mediae interponi possint tum geome-
+tricae tum arithmeticae numero infinitae, quanto
+plures interponuntur, tanto minus geometricas et
+arithmeticas inter se differre. Inde, nec aliunde,
+venit ei in mentem, quod valde multis mediis inter-
+positis in ratione geometrica, totidemque in ratione
+arithmetica, alterae ab alteris non differunt nisi in
+notis numericis a prima adeo remotiS‚ ut postremae,
+retentis prioribuS‚ sine damno calculi possint neg-
+ligi: et per consequenS, ea quae per multiplicationem
+et divisionem solebant supputari, per additionem
+et substractionem satis accurate expediri. Quae
+deinceps scribit Wallisius de logarithmorum usu,
+pauca sunt, et transcripta ex initio libri de loga-
+rithmis editi a Briggi0.
+
+B. Videamus jam ea quae continentur in Capite
+xxxiii„ de Progressione Geometrica per symbola.
+
+A. Toto hoc capite difficultaS, praeter eam
+quam faciunt ipsa symbola, fere nulla est. Itaque
+unius tantum theorematis demonstrationem exami-
+nabimuS, in qua regulam demonstrare conatur, qua
+vulgo utuntur qui quaerunt summam progressionis
+
+mALOGus
+
+lv·
+

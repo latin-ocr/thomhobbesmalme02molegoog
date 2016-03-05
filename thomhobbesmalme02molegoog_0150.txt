@@ -1,0 +1,51 @@
+DIALOGUS
+
+IV.
+
+138 ΕΧΑΜΙΝΑτ-ιο ΕΤ EMENDA'mo
+
+A. Certone?
+
+B. Puto. Verum si regulae demonstrationem
+aliquam ejus ipse habeS, profer quaes0.
+
+Α. Sciendum prius est, in omni multiplicatione
+esse ut numerus productus ad numerum multipli-
+candum, ita multiplicantem ad unitatem.
+
+B. Scio. Nam opus multiplicationis aliud non
+est quam numerum invenire, qui toties contineat
+multiplicandum quoties multiplicans continet uni-
+tatem.
+
+A. Tenes. Sit ergo numerorum quotlibet con-
+tinue proportionalium serieS, A, B, C, D; in qua A
+sit minimus, Fit ergo B ex multiplicatione A per
+aliquem numerum integrum vel fractum. Sit mul-
+tiplicam, primo, integer quem tu vis,
+
+B. Sit multiplicans 3.
+
+A. Est ergo 3 A=B; et 3 B==C; et 3 C=D;
+et ut A ad B, ita l ad 3, ut tu modo ipse demon-
+strasti.
+
+B. Concedo.
+
+A. Sed in proportionalibus, ut primum antece-
+dens ad primum consequenS, ita summa antecedens
+tium omnium ad summam consequentium omnium.
+
+B.. Recte.
+
+A. Et in serie proposita, A, B, C, D, omnes ante-
+cedentes sunt A, B, C, et omnes consequentes B, C,
+D. Quare ut l ad A÷B÷C, ita 3 ad B÷C÷D. Et
+proinde 3A÷3B÷3C=B÷C÷D Et subductis
+utrinque B÷C‚ restabit hinc quidem D, illinc autem
+3A÷2 Bne. Habemus ergo aequationem unam,
+D=3A÷2B÷2C; et sublato utrinque A, aequa-
+tionem alteram, D—A=2A÷2 B÷2 C. Quare
+diviso numero dato D-A per 2, quotiens erit A÷B
+÷C; cui adjunctus datus D, dat summam quaesitam.
+

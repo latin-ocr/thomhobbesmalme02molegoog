@@ -1,0 +1,47 @@
+cAP. vm.
+b—-r--ae
+
+De angulo.
+
+402 ΒΕ PRINCIPIIS m* RAT1001NAT10NE
+
+recta rectae ad angulos rectos insistit, non dicitur,
+juxta sermonem communem, omnino inclinari in
+utramvis partem rectae cui insistit: quando autem
+altera alteri insistit ad angulos obliquOS, tunc incli-
+nari ad eam partem dicitur ubi angulus est acutus.
+Atque hoc sensu inclinationem intelligit in Elemento
+undecimo Euclides, Itaque minima inclinatio rectae
+CB ad cl) tunc est, quando altera ad alteram est
+perpendicularis: maxima autem, quando admovetur
+CB ad CD motu circulari ita ut ambae coincidant.
+Idem etiam dici potest de inclinatione rectae CD ad
+CA, et rectae CA ad ΟΕ, et rectae ΟΕ ad CB.
+Motus enim circularis cujuslibet e quatuor rectis
+ad rectos angulos deinceps collocatiS, inclinationem
+
+mensurat, adeoque angulos eo motu generatos ε et
+
+semper quo major est pars totius circuitionis quae
+
+eo motu circulari conficitur, eo major est angulus.
+
+J am inclinatio rectae CD ad arcum CI quo pacto
+mensurari potest, cum partes omnes arcus CI di-
+versas habeant inclinationeS, nisi quod in puncto
+unico C inclinatio maxima est, nempe puncti C
+quatenus in recta DC ad idem punctum C, qua-
+tenus in arcu IC ἒ Itaque angulus qui fit a curva
+cl et recta CD, omnino ad punctum ipsum C nul-
+lus est, nisi angulus contactus non sit ejusdem ge-
+neris quantitatis cum angulo quem efficit radius
+per motum circularem ad alium locum translatuS.
+De quo fusius dicetur in examinatione Prop. 16.
+Elem. iii.
+
+Videamus denique, cur ad constitutionem anguli
+necessarium fit ut duae lineae, ipsum efficienteS, non
+jaceant in directum t cujus causam hanc reddit
+Clavins, quod nec duae partes ejusdem rectae, nec
+duo arcus ejusdem, circuli, faciunt angulum. Caete-
+

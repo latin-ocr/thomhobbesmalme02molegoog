@@ -1,0 +1,42 @@
+192 EXAMINATIO ET ΕΜΕΝΒΑΤΙΟ
+
+nutocus linea BEFC describitur a termino B decrescentis
+
+. v. . A B. Eodem autem tempore moveri intelligatur
+latus Ac ad latus A Β* uniformiter; potest igitur
+haberi CD pro mensura temporis; rectae autern
+ipsi C D parallelae, terminatae ab una parte in linea
+BEFC, in altera parte in recta AC, erunt men-
+surae partium temporis in quo AB movetur ad CD,
+et AC ad BD*. Sumatur jam in recta CD ad pla-
+citum punctum Ο, ducatur OS parallela lateri BD
+secans lineam B EFC in E, et rectam AB in S. Et
+rursm, apuncto Q, sumpto in CD arbitrarie, duca-
+tur eidem lateri BD parallela QR secans BEFC in
+F, et AB iu R. Ducantur etiam EG, FH parallelae
+CD, secantes Acin G et H. Postremo idem suppo-
+natur fieri per omnia puncta lineae BEFC. Habes
+constructionem.
+
+B. Habeo et teneo.
+
+Α. Dico jam esse, ut aggregatum omnium velo-
+citatum, quibus describuntur rectae QF, ΟΕ, DB,
+caeteraeque omnes eadem methodo genitae, ad aggre-
+gatum rationum temporum designatorum per rectas
+HF, GE, ΑΒ, et caeteras, ita planum DCFEB ad
+planum ABEFC. Sicut enim AB decrescendo per
+lineam BEFC in tempore CD, evanescit in punctum
+C, ita CD*‚ ipsi AB aequaliS, decrescendo per ean-
+dem lineam CFEB, eodem tempore evanescit in
+punctum B, descripta recta DB aequali AC. Sunt
+ergo velocitateS‚ quibus describuntur Ac et DB,
+inter se aequales, RursuS‚ quoniam eodem tempore
+quo punctum Ο describit rectam OE, eodem tem-
+pore punctum S describit rectam SE, erit OE ad
+SE, ut velocitas qua describitur OE ad velocitatem
+
+qua describitur SE. Et propter eandem causam,
+
+⁸* Sic Edit. 1668.
+

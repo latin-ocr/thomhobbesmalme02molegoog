@@ -1,0 +1,46 @@
+Pnor. vm.
+
+*q-ae
+
+498 cnm-no spumam.-
+
+Pnoposl‘no vlu.
+
+Viginti quinque quadrata a quinta parte arcus
+ΒΟ vel rectoe GI, aequalia sunt decem quadratis a
+semi-radio CO.
+
+Nam viginti quinque quadrata a quinta parte
+arcus ΒΟ, aequalia sunt quadrato ab ipso arcu BC
+sive a recta GI, id est (per praecedentem) decem
+quadratis a semi-radio CO: vel, quod idem est,
+quadraginta quadratis a quarta parte lateris ΑΟ.
+
+Coroll. i. Decem quadrata a quinta parte arcus
+ΒΟ sunt aequalia quatuor quadratis a semi-radio ΟΟ,
+id est, ipsi quadrato ab AG: quia est ut 25 ad 10,
+ita 10 ad 4.
+
+Cornu. ii. Item, quadratum a duabus quintis
+arcus ΒΟ aequale est quadrato ab Ae: quia est ut
+25 ad 10, ita 10 ad 4, et sunt arcus ΒΟ, radius AG,
+et recta Ae continue proportionales.
+
+Cornu. iii. Item, arcus quadrantis descripti a Gi
+ut semi-diametro, aequalis est quintuplo semi-radio
+CO. Quadratum enim ab AC ad quadratum ab
+arcu ΒΟ est ut 4 ad 10, ratio autem 4 ad 10 semissis
+est subduplicata rationis 4 ad 25. Quare arcus
+descriptus a Gi erit latus quadrati quod est aequale
+viginti quinque quadratis a semi-radio CO: quia
+quadratum ab ΑΟ, et quadratum a Gi, et quadratum
+a quintupla CO, sunt continue proportionales·
+
+Coroll. iv. Item, quintupla CO, recta Gi, recta
+ΟΟ, recta Ae, et -Ξ- radii ΑΟ, sunt continue propor-
+tionales. Quorum enim Gi potest 25, eorundem
+ΑΟ potest 10. Quorum ergo AC potest 25, eorun-
+dem Ae potest 10. Est ergo Ae media proportio·
+nalis inter AC et duas quintas ejusdem. Ergo
+quintupla CO, recta Gi, etc.
+

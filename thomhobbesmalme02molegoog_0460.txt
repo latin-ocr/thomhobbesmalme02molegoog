@@ -1,0 +1,46 @@
+OAP. XX.
+s--r-a
+
+De dimensione
+
+circuli.
+
+448 DE PRINCIPIIS ΕΤ RATIOOINATIONE
+
+Ra, productaque ut secet ba, absecabit sextam ejus
+partem, propter Ad, ba in triangulo Rha pasal-
+lelas. Quare absecabit in ba rectam aequalem sinui
+arcus Bc. Quod impossibile est, nisi ba transeat
+per c: cum sit ut Ad (2-AD) ad AD, ita sinus ar-
+cus Bc ad sextuplum sinum arcus Bc. Transit
+ergo ba per c.
+
+Eodem modo, si arcus Bc secetur bifariam, fient
+arcus duodecem, et sinus eorundem totidem ε qui
+sinus semper erunt, simul sumpti, minores arcu
+BD, majores tamen recta ba. Eadem methodO,
+bisecando in perpetuum, ostendi potest, rectam
+omnem ductam infra BS ipsique parallelam, termi-
+natam in rectis AB, DS, minorem esse arcu BD.-
+et, per consequenS, rectam BS, compositam ex ra-
+dio et tangente 30 graduum, non esse arcu BD ma-
+jorem. Minor autem esse non potest: cum locus
+nullus ulteriori bisectioni relictus sit. Etiam geo-
+metrae omnes qui magnitudinem circuli determina-
+runt, arcum BD faciunt minorem quam est recta
+BS. Habes ergo demonstrationem quadraturae cir-
+culi verbis haud multo pluribus quam quae sunt in
+constructione.
+
+Coroll. ·i. Si jungatur reeta RG secans AD ins,
+producta ba in e, et ΒΞ in i, erit Bi tertia pars rec-
+tae ΒΞ, et aequalis arcui BG ; et be aequalis chordae
+BG; et Af aequalis radio circuli cujus quadrans
+aequalis est arcui BG; et Ad radius arcus cujus
+quadrans circuli aequalis est arcui Bc: et in uni-
+versum, omnes rectae ductae ab R ad arcum BG,
+secabunt Af, et arcum BG, in ratione radii ad qua-
+drantem a se descriptum. Ex quo sequitur facilis
+divisio arcus sive anguli in ratione data, ut infra
+patebit ad cap. xxiii.
+

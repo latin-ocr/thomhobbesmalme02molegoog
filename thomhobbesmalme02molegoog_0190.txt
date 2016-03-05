@@ -1,0 +1,42 @@
+178 EXAMINATIO ET ΕΜΕΝοΑΤιο
+
+manneus possunt. Nam theoremata, excepto quadragesimo
+
+, V· septim0, quod suum est et falsum, ab aliis vere
+demonstrata sunt; Wallisii autem demonstrationes,
+propter densitatem symbolorum, non apparent.
+Neque quicquam habent, etsi verae essent, praeter
+analysin alienae syntheseos. Ea igitur transiliO,
+properans ad tractatum de Arithmetica Ι nfinitorum,
+quo nihil unquam quisquam vidit in geometria
+turpius,
+
+B. Incipiamus ergo ab Epistola Dedicatoria.
+
+A. Non est necesse. Nihil enim continet praeter
+ordinem suarum ipsius cogitationum, quibus per-
+ductus est ad absurdam illam ejus circuli quadra-
+turam. Neque in tractatu ipso ulterius legam
+quam ad propositionem xli: quia priores has pro
+fundamento ponit omnium quae sequuntur. Prima'
+propositio est lemma, vel potius problema hoc:
+Si proponatur serie-s· quantitatum· arithmetice
+proportionalium, sive juata naturalem numerorum
+consequutionem continue crescentium, a puncto vel
+0 (cypkra seu nihilo) inchoatarum, puta Ο, 1, 2, 3,4,
+etc.,· propositum sit inquirere quam habet rationem
+earum omnium aggregatum ad aggregatum toti-
+dem maoeimoe (equalium. .
+
+Β. Rationem habet tota series ad numerum ter-
+minorum multiplicatum per maximum, eandem
+quam habet semissis ad integrum. Summa enim
+terminorum omnium, ut in hac serie Ο, l, 2, 3, 4,
+aequalis est producto ex numero terminorum ducto
+in semissem maximae. Itaque cum termini hic sint
+quinque, et maximae semissis 2, erit productus ex
+2 in 5 aequalis 10. Est autem 10 summa termino-
+rum omnium. Idem contingeret in alia quavis
+
+progressione arithmetica incipiente a cyphra, ut
+

@@ -1,0 +1,46 @@
+GEOMETRARUM. 443
+
+CAP. XIX.
+
+PROPOSITIO DECIMA SEXTA ELEMENTI TERTII
+EXAMINATA.
+
+QUAE ab extremitate diametri cujusque circuli ad cn. x1x.
+
+angulos recto-s· ducitur, extra ipsum circulum ca- noman-0
+
+det .· et in locum inter ipeam rectam lineam et fflffss
+peripheriam comprehensum, altera recta linea non
+cadet: et semicirculi quidem angulus quovis an-
+
+gulo acuto rectilineo major est ; reliquus autem
+mmor.
+
+In circulo ABC, cujus r
+centrum D, diameter eit
+AC, ad quam ea· A, punc-
+to extremo, perpendicu-
+lari-s· ducatur. Dico hanc
+lineam perpendicularem
+necessario extra circulum
+cadere. Si enim cadet in-
+
+tra ipsum, qualis eet AB .· ducta DB, erunt duo
+anguli DAB, DBA oequalee ,⁰ sed DAB rectus est
+per constructionem .· igitur et DBA rectus erit,
+quod est absurdum. Duo enim anguli in triangulo
+minore-s· sunt duobus rectis. Non igitur cadet
+perpendicularis intra circulum ,· neque eandem ob
+caueam in ipsam circumferentiam, sed extra, qualis
+est EF. Dico jam ea· A, inter ΑΕ, rectam, et
+
+circumferentiam AB, non posse cadere alteram
+rectam.
+
+Haec est demonstrationis Euclidis (interprete
+Clavio) pars prima: quam dico vitiosam esse.
+Prim0, quod punctum A dicit esse neque intra cir-
+culum neque in circumferentia ejus. Cum enim
+
+ 
+

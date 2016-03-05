@@ -1,0 +1,45 @@
+468 nn Munus
+
+APlemx. rectae ab, ML sunt parallelae, erit etiam angulus
+
+adM aequalis eidem angulo DIK sive BKI.
+
+Producatur Ld utcunque ads. Erit ergo angulus
+fdM externus aequalis ambobus simul angulis in-
+ternis dLM, dML. Angulus ergo fdM duplus est
+anguli adM, dividiturque angulus fdM a recta cla
+bifariam. Ducatur Pm dividens angulum BPI bifa-
+riam, et secans AB in m. Cum igitur angulus BPI
+duplus sit anguli PKI, erit angulus mPI aequalis
+angulo sda, et angulus de rectus ; et rectae Pm,
+da parallelae, et proinde anguli IPd, fdP aequales.
+Quoniam igitur IK secat Pd ad angulos rectOS, pro-
+ducta Lf incidet in I. Similiter ostendi potest ἦ
+rectam Md productam transire per K.
+
+Est ergo quadrilaterum IPKdI rhombus.
+
+Jungantur MF et LE; quae, quia sunt aequales,
+secabunt se mutuo in diagonali ad n. Et parallelae
+sunt tum Da, bE. tum DB,ML; tum etiam IK,EF:
+erit ergo angulus bEL aequalis angulo IDa; et an·
+guli LEF, LMF aequales duobus angulis BDI, DBK‚
+id est duobus angulis ILM‚ KML, uterque utrique.
+
+Est ergo quadrilaterum MdImM rhombus.
+
+Sunt ergo PB, dl, nM, nE continue proportio-
+naleS.
+
+Sed ut PB ad ΡΙ, id est ad PK, ita est AB ad
+AK, id est ad AI ε propterea quod recta ΑΡ dividit
+angulum BAK bifariam. Item ut dl ad nM‚ id est
+ad d L, ita est ΑΙ ad AL, sive ad AM ε quia Ad di-
+vidit angulum IAL bifariam. Item ut nM ad nE,
+id est ad Fu, ita est AM ad AF, sive AE: quia An
+dividit angulum MAF bifariam.
+
+Sunt ergo reotae AB, ΑΙ, AM, ΑΕ continue pro-
+portionales: et AI, AM, sive AK, AL, mediae quae·
+sitae.
+

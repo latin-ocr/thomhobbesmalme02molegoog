@@ -1,0 +1,39 @@
+220 ΕΧΑΜῙΝΑΤῙΟ ΕΤ ΕΜΕΝΒΑΤῙΟ
+
+manneus F σ sit ad reliquam ut 5 ad 3, ut fit in semiparabola;
+, vx. nec mirum, cum ratio solidi propositi sit ad suum
+complementum eadem quae plani semiparabolici ad
+complementum suum. Caeterum BD non dividitur
+in 3 ad 2, ut diameter semiparabolae. Cujus rei
+causam non video,
+A. Neque ego; sed neque quare ita esse debeat.
+Ex iis, quae demonstrata sunt de ratione propositi
+solidi, facti a conversione ejus circa basem F D, ad
+solidum factum a simili conversione rectanguli DG,
+et de centris gravitatis ipsorum, methodus apparet
+inveniendi rationem solidi facti a conversione cujus-
+libet partis ejus abscissae a parallela altitudinis qua-
+cunque. Nam si planum cycloidale, cujus basis
+(exempli causa) est A f, convertatur super basem
+suam A f, recta quidem AB describet quadrantem
+integrum, reliquae autem ipsi parallelae describent
+arcus quadrantum minores semper in ratione arith-
+metica, donec in puncto f describatur nihil. Ex
+qu0‚ ut ante, inferetur solidum factum a conversione
+plani cycloidalis AB f super basem Α f, duplum
+esse solidi quod fit a simili conversione trianguli
+f A B. cognitisque magnitudinum rationibus», in-
+venientur, ut ante, eorum centra gravitatis.
+
+PROPOSITIO xxl.
+
+Solidum factum a conversione rectanguli DG
+per quadrantem circuli, circa diametrum circuli
+genitoris DB, (quae est cylindri totius sic facti
+altitudo), est ad solidum factum a conversione
+ejusde'm rectanguli DG circa rectam DF, (quae est
+cylindri hujus altitudo), ut DF ad iuius altitudi-
+
+nem DB.
+Sunt enim cylindri inter se in ratione composita
+

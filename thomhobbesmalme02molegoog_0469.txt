@@ -1,0 +1,50 @@
+GEOMETRARUM. 457
+
+in triangulo rectanguIO, cujus latus unum aequale car. xxm.
+
+κ--Υ-μ
+
+est tribus semiradiis, alterum uni semiradiO. Quod D, quanam„
+
+erat demonstrandum.
+
+Sunt ergo MS, ΜΟ aequaleS.
+
+Est autem ΜΟ aequalis tertiae parti ΒΜ. Est
+autem MS (propter triangula BGV‚ MRS aequalia
+et similia) aequalis BV, tertiae parti BP. Itaque
+ΒΜ, ΒΡ sunt aequales: et quadratum a ΒΜ ad
+quadratum a BC ut 10 ad 4. Quod erat demon-
+strandum. Nec in veritate theorematis sensus et
+ratio dissentiunt.
+
+Corollarium hinc oritur manifestum, rectas BN,
+ΒΟ, ut et ΟΡ, PR, item PS, Pa, esse inter se aequa-
+les; et esse BQ, BP, ΒΟ, id est Be, (facta aequali
+BQ), ΒΜ, ΒΝ continue proportionales: et ΝΟ,
+ΜΡ esse parallelas3 et angulos NOP, OMP, NPM‚
+PMR esse omnes inter se aequales; et denique,
+facto angulo NMn aequali angulo OPS, parallelas
+esse BP, MN aeque altaS.
+
+Ex proportione hac modo demonstrata sequitur
+theorema novum circa dimensionem circuli, nempe
+hoc ε Arcum quadrantis descripti semidiametro
+ΒΜ, aequalem esse quinque semiradiis; arcum
+autem quadrantis cujusdam, qui sit aequalis rectae
+AB, descriptum esse a semidiametro quae est media
+proportionalis inter AB, sive CD, et ejusdem duas
+quintas,
+
+Secetur enim AD, quae aequalis est radi0, in quin-
+que partes aequales, quibus adjiciuntur* in directum
+aliae duae quintae, Da, ab. Divisa autem Ab bifa-
+riam in c, describatur semicirculus se'cans CD in d.
+Est ergo ut «⁹.- radii AD ad Dd, ita Dd ad radium
+
+’ Sic edit. 1668. Edit. 1666, “ adjiciantur”.
+
+ectoe composite
+ex radio circuli,
+etc·
+

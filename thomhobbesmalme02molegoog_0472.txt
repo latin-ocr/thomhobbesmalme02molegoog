@@ -1,0 +1,42 @@
+460 nn PRINCIPIIS Εἰ· ΒΑΤῐοοιΝΑτιοΝΕ
+
+cn. xxm. secundum Euclidem, aequale 48 quadratis ab' Nr.
+
+„W Est autem quadratum a Or 49. Quare si gnomon
+
+ffmmffimffiffff cujus latitudo sit Mr, circumponeretur quadrato a
+
+etc· 'CM‚ esset ille gnomon aequalis quadrato ipsius Nr.
+Sed ostensum est, quod gnomon cujus latitudo
+sit Mr, circumpositus quadrato a ΒΜ, aequalis est
+quadrato ab eadem Nr. Non est ergo quadratum
+a tangente 30 graduum ad quadratum a semiradio
+ut 4 ad 3. Quod est contra prop. 47, Elem. i.
+N on videtur ergo propositio illa universaliter vera:
+sed dubitans nil pronuntio.
+
+“ Error est,” inquieS, “ aliquis vel in illa, vel in
+hac demonstratione.’' Certissime. Incumbe igitur
+toto animo utriusque examinationi : nec ratiocina-
+tiones tantum, sed etiam principia excute. Impri-
+mis autem, cave ne tenuissima triangula vel sectores
+quantuloscunque computes pro lineis rectia, aut
+parallelogramma obliquangula exigua pro rectan-
+gulis. Id quod evitare non potest is, qui rectan-
+gulum non quadratum sectum putet a linea per
+angulos oppositos bifariam3 ut est in propositione
+34, Elem. i. Quanquam enim in quadrato diago-
+nalis considerari ¹potest ut mera longitudo, atque
+etiam ut minutissimum rectangulum, quia dividit
+oppositos angulos bifariam: in oblongo tamen, ubi
+diagonalis non dividit oppositos angulos bifariam,
+considerari non potest neque ut rectangulum, neque
+ut mera longitudo, sed ut vel triangulum obliquan-
+gulum, vel parallelogrammum obliquangulum. Sed
+nt hanc difficultatem facilius examinare possiS, os-
+tendam tibi nunc quanto, juxta Euclidem, qnadra-
+tum a tangente 30 graduum majus est quam qua·
+dratum a semiradi0.
+
+Dico autem quadratum a tangente 30 graduum,
+

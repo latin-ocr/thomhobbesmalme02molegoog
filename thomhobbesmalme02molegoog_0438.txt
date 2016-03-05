@@ -1,0 +1,40 @@
+CAP. xm.
+n-q-—ae
+
+De rationum
+calculo.
+
+426 DE PRINCIPIIS ET RATIoclNATIONn
+
+qui fieri potest ut proportio primi ad tertium dupla
+sit proportionis primi ad secundum, cum sit omnino
+eadem? Profecto si ratio 4 ad 4, nempe ratio aequalis
+ad aequale, id est, ipsa aequalitas, quantitas sit, valida
+est objectio. Sin quantitas non sit, frivola est ε
+cum nihil ad nihil additum, vel per nihil multipli-
+catum semper facit nihil. Antequam autem ad
+hanc et alias ejus objectiones respondeam, non abs
+re erit quantorum genera amplius ex ipsis Euclide
+et Clavo distinguere, et quid sit rationum additio
+et subtractio, ex iisdem explicare: et cur in tribus
+continue proportionalibUS, quorum primum est
+maximum, rationem primi ad tertium duplam esse
+dixi rationis primi ad secundum; non tamen quando
+primum est minimum„
+
+CAP. XIV.
+
+ADHUC DE RATIONUM CALCULO.
+
+DEF1N1T10 quinta Elementi sexti haec est: Ratio
+ex rationibus componi dicitur, cum rationum quan-
+titates inter se multiplicata» aliquam effecerint
+rationem .· et vera est. Nam si sint proportiones
+illae duae eaedem vel non eaedem, sive prima maxima
+sit vel non < maxima, semper illis conveniet defi-
+nitio. Exempli gratia: in his numeris, 4—2 ‚6—3,
+ubi rationes sunt eaedem, si multiplices inter se
+antecedentes 4 et 6, qui faciunt 24, et consequentes
+2 et 3, qui faciunt 6: ratio nascens erit ratio 24 ad
+6, id est 4 ad 1, id est, duplicata rationis 4 ad 2
+

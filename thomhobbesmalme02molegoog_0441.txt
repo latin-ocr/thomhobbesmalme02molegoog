@@ -1,0 +1,39 @@
+GEOMETRARUM. 429
+
+Per definitionem quintam Elem. v, quae haee est: cn. 12·
+Rationem habe-re inter se magnitudine-s· dicuntur, mneonm‘
+quoe possunt multiplicatae sese mutuo superare .· ⁰⁸¹⁰¹²¹⁰·
+explicat Euclides, ut recte dicit ClaviuS, quidnam
+requirant duae quantitates ejusdem generis ut ra-
+tionem dieantur habere, nempe, si non habeant
+hane conditionem ut altera possit multiplicata al-
+teram superare, non esse illas neque ejusdem gene-
+ris, neque habere inter se rationem.
+
+Unde manifestum est, primu, lineam, superficiem,
+et solidum esse diversa genera, vel potius diversas
+species quantitatis Nulla enim harum quantumvis
+multiplicata alteram superabit.
+
+Secunde, angulus genitus ex motu circulari, et
+angulus contactuS, diversae sunt speeies quanti-‘
+tatis. Angulus enim contactus nulla unquam mul·
+tiplieatione superabit angulum genitum ex motu
+circulari.
+
+Tertio, ratio majoris ad minue, et ratio minoris
+ad majus, sunt diversae speeies quantitatis, Nam
+ratio minoris ad majus, quanto magis multiplica·
+tur, tanto semper minor est.
+
+CAP. XVI.
+
+nTlAM DE RATIONUM CALcULO.
+
+cmvms, ad prop. 23, Elem. vi, aliam habet me·
+thodum componendi rationes. Sint duae rationes
+6 ad 4 et 2 ad 8 componendae. Fiat ut 2 ad 8, ita
+consequens 4 ad aliam 16: eritque ratio 6 ad 16
+composita ex rationibus 6 ad 4 et 2 ad 8. Positis
+enim ordine his numeris 6, 4, 16, priores duae
+

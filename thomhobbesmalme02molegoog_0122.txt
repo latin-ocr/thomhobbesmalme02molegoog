@@ -1,0 +1,45 @@
+110 ΕΧΑΜῙΝΑΤῙΟ Εἰ· EMENDA‘rlo
+
+unrocus rata inter se multiplicentur: eritque facti radix
+
+„IL factum quaesitum. Exemplum: sit radix qua-
+dratica 4 multiplicanda per 6: quadratum radicis
+quadraticae 4, est 4 ε quadratum a 6 est 36 : 4 in
+36 producit 144: radix 144,nempe 12, est id quod
+fit ex ductu 6 in radicem quadraticam 4, id est,
+in 2. Quod sic demonstrO. Sint duo quadrata,
+AA=36, BB=4: erunt ergo ΑΑ, ΑΒ, ΒΒ, con-
+tinue proportionales, nimirum, in ratione A ad B.
+Est autem AB id quod fit ex radice Α, sive 6, in
+radicem B, sive 2.
+
+B. Recte hoc. Sed cur non melius est dati
+quadrati radicem primo invenire, et deinde inven-
+tum multiplicare per datum numerum.
+
+A. Quia, nisi numeri dati sint quadrati, inventa
+radix accurata non erit; sed error aliquis certe
+inerit, qui post major fiet per multiplicationem,
+quae multiplicatio per hanc regulam evitatur.
+
+B. Video, hoc exemplo, quod datis duobus qua·
+dratis circa diametrum, completi super totam dia-
+metrum quadrati utrumvis complementorum, me-
+dium est proportionale inter quadrata data.
+
+A. Ita est.
+
+B. Adde jam radici quadraticae radicem qua-
+draticam.
+
+Α. Regula haec est. Quadrati inter se multipli-
+centur3 producti radix inveniatur, dupliceturque;
+duplicatae addantur numeri quadrati dati; radix
+summae est summa radicum propositarum. Exem-
+pli gratia: radix quadratica numeri 9 sit addenda
+radici quadraticae numeri 25. Quadrati inter se
+multiplicati faciunt 2253 cujus numeri radix quad-
+ratica est 15, qui duplicatus est 303 cui numero
+
+si summa quadratorum addatur, nempe 34, fiunt
+

@@ -1,0 +1,42 @@
+PROPORTIONALIBUS IN GENERE. 471
+
+rectis BS, RY, XL, MI, sicut et lE parallela rectis APPENDIX.
+DR, SX, YM, LK.
+
+Est ergo quadrilaterum ImKnI rhombus. Quare
+BT, RZ, Xd, Mm, Kn sunt continue proportionales:
+et propter angulum BAS, RAY, XAL, MAI divisum
+ab AN bifariam, erunt ( per Eucl. vi. 3) rectae AB,
+AR, AX,AM‚ AK,AE‚ sicut et AD, AS, AY, AL, ΑΙ,
+AF continue proportionales, ltaque inter duas
+AB, AV data8‚ inventae sunt quatuor mediae, AR,
+AX, AM, ΑΚ, sive AS, AY, AL, ΑΙ.
+
+Ad mediarum numerum omnem demonstrationes
+applicare singulas impossibile est. Manifestum
+autem est, quod, si arcus BG secetur septifariam,
+inveniri sex rhombos latera habentes totidem con-
+tinue proportionalia, et consequenter sex medias;
+quemadmodum ex trisectione inventae sunt duae
+mediae, et ex quinquisectione quatuor mediae3 atque
+ita in infinitum pro mediis numero paribus, Datis
+autem paribuS, omnis mediarum numerus impar
+facile innotescit per sumptionem inter singulas pro·
+portionales singularum mediarum. Invenimus ergo
+methodum generalem inveniendi inter duas rectas
+datas medias quotcunque per sectionem anguli.
+Quomodo autem angulus in ratione data quacunque
+secandus sit, docuimus supra, Cap. xxii.
+
+Haec, quanquam certa et demonstrata, corrue-
+rent tamen‚ si verum esset quod algebristae nostri
+dicunt, radicem numeri quadrati, et figurae quadra-
+tae latus idem esse.
+
+Examinabimus jam logicae, quam illi jactitant,
+severitatem.
+
+Vitiosam esse aiunt demonstrationem, in quam
+non ingreditur omne id quod ad constructionem
+assumitur. Ego contra, demonstrationem in qua
+

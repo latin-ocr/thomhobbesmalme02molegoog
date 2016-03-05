@@ -1,0 +1,44 @@
+commo sPnAEnAE, ss‘rc. 515
+
+signare. Redde prius gratiam debitam pro multis at> Paoan.⁴
+problematibuS, quibus geometriam jamdudum am-
+plificavi. Non solet, inquieS, fieri. Recte hoc.
+Faciam ergo gratis.
+
+κ Intelligatnr sector quadrantis ABG dividi in rec-
+tis lineis ad centrum A numero quocunque ductiS,
+sine latitudine. , Horum sectorum vertices erunt
+tot puncta, quot sunt factae partes totius sectoris
+ABC. Quare angulus rectus BAC continebit tot
+sectorum exiguorum verticeS, quot sunt in· qua-
+drante ABC sumptae partes. Sectorum igitur ho-
+rum exiguorum latera non concurrent in puncto A,
+sed ipsum divident. Concurrent ergo extra A,
+nempe GA extra quadratum producta.
+
+Posita ergo Ac 32, recta sumpta a puncto hoc
+extra quadratum indivisibili, si fiat ipsi Ac aequalis,
+cadet infra c, Et huic* addita οὓ, cadet infra Q.
+Et huic rursus addita QG, cadet infra G. Et tres
+illae lineae sunt aequales tribus Ac, ΑΩ, AG, et in
+eadem ratione.
+
+Causa ergo quare calculus arithmeticus differt a
+geometricO, haec θεῖς quod linearum sine latitudine
+nihilitas facit ut calculus arithmeticus incipiat extra
+quadratum, et calculus geometricus incipit in ipso
+quadrato ad punctum A.
+
+Distantia autem quae est inter A et concursum
+rectarum (latitudine carentium) in GA producta,
+erit in calculo arithmetico unita-5.
+
+AD PROPOSITIONEM VIII.
+
+Propositio viii haec est: 25 quadrata a quinta
+parte arcus BC, vel rectae Gi, aequalia sunt 10 qua·
+dratis a semiradio CO.
+
+ι Falsum est, dicit3 primu, quia arcus BC non est
+aequalis rectae Gi.
+

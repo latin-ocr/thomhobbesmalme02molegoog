@@ -1,0 +1,41 @@
+436 na pausemus m· nmlocmAnoNE
+
+cu». xvn. duplo minorem csse ratione 1 ad 3, propterea quod
+md sunt ambae rationes defectus. Quoniam igitur
+2⁰:353& ratio l ad 9 duplo minor est quam ratio l ad 3,
+manifestum est rationem l ad 3 duplo majorem
+esse quam ratio 1 ad 9.
+Α His intellectiS, ostendendum est quomodo in his
+numeris 1. 100.10., ratio l ad 10 componitur ex
+rationibus l ad 100 et 100 ad 10.
+
+Quoniam enim rationes 100 ad 10 et 10 ad 100
+simul additae faciunt rationem aequalitatiS, id est,
+altera alterius quantitatem extinguit, restabit ratio
+1 ad 10 pro summa rationum l ad 100 et 100 ad
+1οε ut qui unum dederit carenti duobuS, facit ut
+careat tantummodo uno.
+
+Atque hoc exacte convenit cum Def. 5. Elem. vi.
+Nam antecedentes rationum 1 ad 100 et 100 ad 10,
+sunt 1 et 10οε consequentes autem 100 ad 10.
+Antecedentes in se multiplicatae faciunt 100 : con-
+sequentes autem multiplicatae in se faciunt 100οε
+sed ratio 100 ad 1000 eadem est cum ratione com-
+posita 1 ad 10. Componitur ergo ita ratio 1 ad 10
+ex rationibus 1 ad 100 et 100 ad 10, ut partes
+componentes sint vere partes rationis compositae.
+Sed rationes l ,ad 100 et 100 ad 10 non sunt partes
+ejusdem rationis compositae 1 ad 1οε neque esse
+possunt, cum sint diversi generis rationes.
+
+Vides ergo rationem duplicatam duplam quoque
+esse, hoc est duplo majorem esse ratione quae du-
+plicari dicitur. Ut in iisdem proportionalibus 1,
+10, 100, ratio defectus 1 ad 100, duplicata est ra-
+tionis defectus 10 ad 100 (duplicata scilicet de-
+fectus ratione): et propterea etiam duplo major,
+quia sublatio defectus quantitatem auget.
+
+Manifeste hinc sequitur theorema hoc universale.
+

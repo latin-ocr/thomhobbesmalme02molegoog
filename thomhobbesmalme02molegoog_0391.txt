@@ -1,0 +1,46 @@
+DUPLmATm cnm. 379
+
+Jungatur YX secans asin i. Et iT dimidio YZ,
+eademque dimidia XV, et YZ, XV aequales. Secta
+autem est PX a recta aT bifariam, quia fi est di-
+midia Rx*.
+
+Et anguli VYX, ZVX in semicirculis recti.
+
+Ergo anguli PYX, YXV sunt recti.
+
+Ergo ZYXV est rectangulum. Et triangula
+DPY, DYX, DXV sunt rectangula, et aequiangula.
+
+Et quatuor rectae DP (sive AD) DY, DX, DV
+continue proportionales,
+
+Et cubus a DX, minore mediarum, duplus cubi
+a DV. Itaque inventus est est cubus duplus cubi a
+DV. Quod erat faciendum.
+
+Sequitur hinc cubum ab AD duplum esse cubi a
+DY, id est, ut 8 ad 4.
+
+Praxis facillima est. Nam descripto quadrato
+ABCD, et sumpta AS, sinu 45 graduum ; et divisa
+SD bifariam in T, circulus centro T, intervallo TV
+descriptus, transibit per X, Y, medias quaesitaS.
+Vel sic: a puncto S ducatur perpendicularis secans
+semicirculum descriptum radio aV, iterum in Z;
+et PZ producta incidet in Y, punctum quaesitum.
+Est enim angulus VZP in semicirculo rectus.
+
+Contra haec objiciunt algebristae duos calculos
+arithmeticos ι quorum primus est J ohannis Wallisii,
+professoris geometriae Saviliani in Academia Oxo-
+niensi, talis:
+⁴ “ Ponamus DV==1‚ adeoque DA vel DP--2.
+
+⁴¹* “ J ungatur YX, secans asin i. Secta autem est PX a recta
+ἀΤ bifariam. Ergo ducta XT, et producta, incidet in Z. Et
+XZ aequalis est diametro YV. Ergo tam Te quam Ti est se-‚
+missis rectae VK, et proinde inter sc aequales. Et anguli, etc.”
+
+Edit. 1662.
+

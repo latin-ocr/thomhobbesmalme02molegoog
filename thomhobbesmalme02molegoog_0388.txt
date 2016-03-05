@@ -1,0 +1,39 @@
+376 na MAGNITUDINE cmcum.
+
+nor. xv. quadrati et circuli aeq'ualibuS. Sin dictorum 'trila-
+terorum alterutrum altero majus sit, circulus qua-
+drato inaequalis. erit.
+
+Supponamus ergo . trilaterum quidem contentum
+duabus rectis ΑΕ, AR et arcu ER majus esse trila—
+tero EFT, contento duabus rectis EF, FT, et arcu
+ET: illi autem aequale esse trilaterum Aer, con-
+tentum duabus rectis Ae, Ar et arcu re. Erit ergo
+recta ΑΕ major quam Ae, et AR major quam Ar.
+Et recta Hr major quam HT, et arcus circuli re
+non major quam arcus RE. Arcus autem re pro-
+ducatur donec occurrat productae HT in t. Itaque
+trilaterum contentum duabus rectis eF, Ft, et arcu
+et, multo major erit quam trilaterum contentum
+duabus rectis EF, FT, et arcu ET. Quare sector
+Hrt totius circuli pars octava superat triangulum
+AHF, octavam partem quadrati ABCD‚ plusquam
+triangulum AHT superatur a sectore eodem Hrt.
+Circulus ergo per r, e, t major est quam quadratum
+ABDC. Similiter ostendi potest, si trilaterum AER
+poneretur minus esse trilatero EFT et (per conse-
+quens) Ην minor quam HR, circulum descriptum
+radio Hr minorem fore quam quadratum ABDC.
+Sunt ergo aequalia inter se quadratum ABDC et
+circulus cujus semidiameter est HR. Dato ergo
+quadrato circulus inventus est aequaliS.
+
+PRoPosl'rlo XVI.
+
+Dato circulo aequale invenire quadratum.
+
+Circulo per R, T, S inveniendum sit aequale qua-
+dratum: sit datus circulus per R, T, G. Ducatur
+per T latus unum quadrati illius, quod circulum
+circumscribit, nempe XV, dividaturque TV bifariam
+

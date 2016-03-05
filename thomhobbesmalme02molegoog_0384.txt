@@ -1,0 +1,40 @@
+372 nn MAGNITUDINE crucum.
+
+scnomm. decim quadratis a quarta parte lateris AB ; et
+lateris Βι quadratum aequale sex quadratis a quarta
+parte ejusdem rectae FE.
+
+Fiat ut 32 ad 12, ita 12 ad aliam, quae erit 4}-
+
+Quoniam ergo BD, Βλ, λΙ) sunt continue pro-
+portionaleS, etiam earum quadrata erunt continue
+proportionalia. Erit ergo quadratum a AD mi-
+nore segmento, aequale 44 quadratis a quarta parte
+lateris EF. Sumpta ergo Dp, quae sit latus qua-
+drati aequalis dimidio quadrato a quarta parte
+lateris DA, juncta Hp erit aequalis DA. Cum enim
+HD quadratum aequale sit quatuor quadratis a
+quarta parte lateris DA, ducta Hp erit latus qua-
+drati quod sit 44 quadrati lateris DA. Quare po-
+tentia rectae DA vel H ρ duplicatae erit 18, id est
+quadratum a DA duplicata erit aequale 18 quadratis
+a quarta parte lateris DA. Potentia ergo rectae
+Βλ tripla est potentiae Βι, (cujus quadratum est 6),
+et sesquialtera potentiae FK, Quare ipsae rectae
+
+- Βλ, FK, sunt aequales, Inventa ergo est magni-
+tudo rectae Βλ.
+
+Sequitur hinc, (per Elem. xiii, prop. 4), duplam
+DA aequalem esse rectae quae subtendit totam DA
+et minus segmentum A μ. Nam quadratum sub-
+tensae illius triplum est quadrati a majore segmento
+Βλ vel ΑΖ. Quid ad haec dicturi sunt, qui Eucli-
+dem nusquam errasse volunt? Euclides tamen
+lineae rationalis extrema et media ratione sectae
+utrumque segmentum lineam esse irrationalem
+dicit, cum et totum quadratum a DA, et quadra-
+tum utriusque segmenti, sint ut numerus ad nu-
+merum. Bene quidem ratiocinatus est Euclides,
+sed falso usus est principio illo primo, punctum est
+

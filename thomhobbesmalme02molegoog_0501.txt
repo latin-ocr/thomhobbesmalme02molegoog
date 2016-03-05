@@ -1,0 +1,36 @@
+489
+
+QUADRATURA CIRCULI.
+
+PROPOSITIO 1.
+
+Circulo dato quadratum invenire aequale.
+
+Su· (in fig. l) circulus datus BCDE, cujus centrum 1’1201’· 1·
+A, divisus quadrifariam a diametris BD, ΟΕ. Cir-
+culohinc circumscribatur quadratum FGHI, quod
+tangit circulum in punctis Β, C, D, E. Ducantur
+diagonales GI, HF, secantes circulum in punctis
+K, L, M, N. Secetur semilatus CG bifariam in O,
+ducaturque ΑΟ secans circulum in P. Per punc·
+tum P ducatur recta QR parallela GH, secans AG,
+ΑΗ in Q et R, et Ac in Y: compleaturque qua-
+dratum QRST. Dico quadratum QRST aequale
+esse circulo BCDE dato.
+
+Quoniam enim recta CG secta est bifariam in O,
+et triangulorum ACG, AYQ bases CG, ΥΩ sunt par-
+allelae, etiam basis ΥΘ secta est bifariam in P: et
+proinde triangula AYP, APQ sunt aequalia.
+
+In arcu LC sumatur arcus LV aequalis arcui CP:
+ducaturque AV, secans YP in X.
+
+J am APL ÷PQL ÷CYP=AVL=ACP‚ quia APL
+4 PQL=AYR Nam ACV÷AVP=ACP=AVL.
+
+Quare APL -1- PQL -ι- CYP=ACV -ι- AVP.
+
+Ablatis igitur utrinque aequalibus APL, ACV,
+restant PQL -ι- CYP=AVP.
+

@@ -1,0 +1,41 @@
+PROPORTIONALIBUS IN GENERE. 469
+
+Rursus inter datas quascunque AB, AV, inveni· Arrsnmx.
+endae sint quatuor mediae. Fiat ab AB (fig. ii) ‘'q“
+quadratum ABCD ε sumanturque in lateribus AB,
+AD partes ΑΕ, AF utraque aequalis minori AV.
+Sumatur autem inter AB, ΑΕ media Aa, cui in la-
+tere AD sumatur aequalis Ab ; jungamurque Da, et
+bE ; ducanturque DB, ab, bE, EF. Ducatur etiam
+diagonalis AC secans DB, ab, EF, in N, d, ο. De·
+inde centro N, radio NB describatur arcus circuli,
+secans Da productam in G. Secetur autem arcus
+BG in quinque partes aequales, quarum BH sint
+duae, et BQ quatuor.
+
+Item centro d, radio da, describatur arcus circuli
+ag, secans bE productam in g: seceturque arcus ga
+in quinque partes aequales, quarum gh sint duae, et
+gq quatuor.
+
+Ducatur DH, secans AB in R: et in latere AD
+sumatur AS aequalis AR. Ducanturque BS, RS ς
+eruntque DR, BS aequales ς et propterea, secabunt
+se mutuo in diagonali AC ad T; et erunt DB, RS
+paralle1ae3 et quatuor anguli NBT, NDT,TRS,TSR
+aequales, et quilibet eorum aequalis duabus quintis
+anguli BDG.
+
+A puncto S ducatur SX parallela DR, et a puncto
+R ducatur RY parallela BS. Erunt ergo SX,RY
+aequaleS, et secabunt se mutuo in diagonali ad Z.
+Itaque quadrilaterum STRZS erit rhombus: junc-
+taque. XY erit parallela rectis DB, RS, et ab ; et
+utervis angulorum ZXY, ZYX aequalis erit angulo
+BDR, id est duabus quintis anguli BDG.
+
+Ducatur dq secans AB in M. Ducatur etiam
+bM ; eritque angulus abM semissis anguli adM.
+In latere AD sumatur AL aequalis AM ; jungantur-
+que ML et aL. Itaque bM, aL secabunt se mutuo
+

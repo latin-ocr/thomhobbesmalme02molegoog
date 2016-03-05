@@ -1,0 +1,49 @@
+378
+
+DUPLICATIO CUBI.
+
+ 
+
+Sit (in fig. l) data AV, secta in D, ita ut AD sit
+dupla DV.
+
+Quadratum ab AD, majore segmento, sit ABCD.
+
+Sit tum BR tum AS aequalis semidiagonali AI.
+
+Producatur CD in P, ita ut DP sit aequalis AD.
+
+Ducatur RS ct producatur.
+
+. Fiat SY aequalis DV, ct jungantur RY, PV.
+, Ergo rectae RY, PV erunt parallelae et aequales.
+. Connectantur PY, VR secans DC in X.
+
+Ergo PY, VR sunt aequaleS‚ et PYRV parallelo-
+grammum.
+
+A puncto V ad rectam PY ducatur perpendicu-
+laris VZ.
+
+, Et divisa PV bifariam in a, radio aV vcl aP
+describatur semicirculus qui transibit per D et Z.
+. Ergo anguli YZV, ZVX sunt recti.
+
+Divisis ΑΒ, DC bifariam in E et F, ducta EF se·
+cabit RY bifariam inf.
+
+Ducatur af secans YV in T, et ZV in e.
+
+Ergo af dividit parallelogrammum PYRV bifa-
+riam, et sunt tres rectae PY, af, VR aequales et
+parallelae.
+
+. Ducatur aZ, quae est aequalis aV.
+, Ergo VZ divisa est bifariam et ad angulos rectos
+m e.
+
+Etiam DS divisa est bifariam in T.
+
+Ergo circulus descriptus radio TV vel TY trans-
+ibit pcr Z.
+

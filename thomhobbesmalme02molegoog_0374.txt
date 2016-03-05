@@ -1,0 +1,44 @@
+PnoP. 11.
+
+362 DE MAGmTumNE cmcum.
+
+tione 3 ad l continua. Centro Ο radio ΟΜ descri-
+batur arcus quadrantis MN ; item radio DS descri-
+batur arcus quadrantis ST, et radio SC describatur
+arcus quadrantis CZ.
+
+Quoniam ergo potentia DC tripla est potentiae
+ΟΜ, erit potentia arcus ST tripla potentiae arcus
+CZ; et arcus BD aequalis arcubus ambobus ST et
+CZ. Est autem potentia totius arcus BD tripla
+potentiae arcus MN; et a tota ΒΜ ut semidiametro,
+descriptus arcus quadrantis Mm aequalis erit utri-
+que simul arcui BD, MN. Est ergo ut BC (recta
+composita ex Bs et SC, quarum potentiae sunt ut 3
+ad l) ad arcum BD (compositum ex arcubus ST,
+CZ, quorum potentiae sunt ut 3 ad 1), ita arcus BD
+ad arcum Mm (compositum ex arcubus BD et
+MN, quorum potentiae item sunt ut 3 ad l). Sunt
+ergo recta ΒΟ, arcus BD, et arcus Mm continue
+proportionales,
+
+Sed recta BC est semidiameter circuli, cujus pe-
+rimetri arcus BD est pars quarta. Quare recta
+quae est aequalis arcui BD, erit semidiameter cir-
+culi cujus perimetri arcus Mm est pars quarta. Est
+ergo BM aequalis arcui BD.
+
+Coroll. Sequitur hinc rectam quae aequalis est
+arcui CZ, radium esse circuli descripti a ΟΜ, ideo-
+que arcum CZ aequalem esse rectae ΟΜ, et arcum
+ST aequalem esse rectae ΒΟ.
+
+PROPOSITIO 111.
+
+Recta PC dupla est differentiae inter semidiago-
+nalem et semiradium‚ eademque media proportion-
+alis inter ΟΜ et ipsius semissem.
+
+Diagonalis enim ΑΟ dividit arcum BD bifariam
+in P. Ducatur QP sinus rectus arcus BP, com-
+

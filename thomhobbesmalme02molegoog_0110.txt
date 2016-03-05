@@ -1,0 +1,48 @@
+munaus
+
+111.
+b-T—-ae
+
+98 ΕΧΑΜῙΝΑΤΙΟ ΕΤ EMENDA‘rIo
+
+tionum supersunt, inquit, vestigia—Nonne viden-
+tur tibi operationum vestigia expressiora esse, verba
+et ciphras scriptaS, sine quibus operatio fieri non
+potest, quam symbola, quibus carere potest, et
+semper caruit operatio arithmetica? Nisi forte
+putes A÷B dicendam esse additionem, aut AB vel
+A>< B multiplicationem, et {divisionem esse A per
+Β. Sed Res, inquit, tota exemplo melius patebit.
+Itaque problema adducit, quod et per algebram et
+sine algebra solvi potest; et utroque modo recte
+solvit3 ita tamen ut solutionibus illis nihil possit
+esse magis appositum ad ostendendum quod algebra
+non est analytica. Problema autem sic se habet
+carmine redditum:
+
+Accessit virgo tres supplex ordine Divos,
+
+Et tulit accedens asses, quot nescio, secum.
+Oratus ductos geminavit Jupiter asses ;
+Protinus illa ,J ovi tres asses grata pependit.
+Quotque superfuerant duplavit Phoebus Apollo 3
+Grata itidem Phoebo tres virgo reddidit asses.
+Pallas tunc reliquos geminavit virginis asses ;
+Assibus et tandem tribus est donata Minerva.
+Unicus et superest, quem secum rettulit, assis.
+Dic mihi quot fuerant quos primo virgo ferebat ?
+
+Solvit autem per algebram sic:
+Pro ignoto numero assium al-
+
+latorum ponit . . .· ; . . ld
+Qui duplatus a Jove fit. .’ .2 d
+Inde Jovi solutis 3 assibuS,
+restant ....... 2α- 3 asses.
+
+Qui duplati ab Apolline, fiunt . 44- 6 asses.
+Inde Apollini solutis 3 assibus,
+
+restant ....... 44— 9 asses.
+Qui duplati a Pallade, fiunt . 84—18 asses
+

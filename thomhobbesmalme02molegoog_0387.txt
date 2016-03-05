@@ -1,0 +1,42 @@
+nn MAGNITUDINB cmcnm. 375
+
+quartae parti circuli descripti semidiametro AB, et rnor. xxv.
+-per consequens aequalis erit perimetro totius cir· '
+culi descripti a semisse rectae AB; et habebit dia-
+metrum aequalem AB. Quare triangulum rectan-
+gulum cuj us latera circa rectum angulum MBG
+
+,sunt BC et ΒΜ, erit aequale circulo descripto semi-
+diametro quae sit semissis rectae ΑΒ. Huic autem
+triangulo aequale est rectangulum sub AB et dimidia
+
+ΒΜ, id est rectangulo ABzvr3 et rectangulo huic
+aequale est quadratum rectae Dm, mediae propor-
+tionalis inter AB sive DC, et dimidiam ΒΜ quae
+
+est De.
+
+PROPOSITIO XV.
+
+· Dato quadrato invenire aequalem circulum.
+
+Sit datum (in fig 2) quadratum ABCD cui inve-
+niendus sit aequalis circulus. Secetur latus AB
+quadrifariam in E, F, et G ; compleanturque qua-
+drata partium, quae erunt sedecem inter se aequalia;
+ducanturque diagonales AD, BC, secantes se mutuo
+in centro quadrati ad H. Centro H intervallo HE
+vel HG ducatur perimeter circuli secans AB in E -
+et G, et diagonales in R et S. Secabit autem cir-
+culus latera reliqua etiam quadrifariam, transiens
+per puncta P, M, O, N, Q et L.
+
+Dico circulum hunc aequalem esse quadrato
+ABCD. Producatur HF ad circumferentiam in T.
+Si ergo trilaterum AER, contentum duabus rectis
+AE, AR et arcu ER, aequale sit trilatero FTE con-
+tento duabus rectis EF, FT, et arcu ET, manifes-
+tum est triangulum AHF, nempe partem octavam
+totius quadrati, aequale esse sectori HRT, octavae
+item parti totius circuli ι et sic de caeteris partibus
+

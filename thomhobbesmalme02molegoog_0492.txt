@@ -1,0 +1,43 @@
+480 nn Manus
+
+Aprssumx. poterit triplum cubi latus. Erit autem illa sub-
+
+ὴ-Υ-κ
+
+tendens maxima omnium rectarum quae intra cu·
+bum duci possunt; et per consequenS, diameter
+erit sphaerae cui cubus inscribitur. Nam diameter
+sphaerae triplum potest lateris cubi in illa sphaera
+inscripti.
+
+Centro r, radio gr semisse lateris AB, descri-
+batur circulus nng, ducaturque 72- parallela et
+aequalis CD, secans diagonalem Acin μ. Quoniam
+ergo ym aequalis est tangenti Ca, si jungatur μί,
+erit illa aequalis eidem Ca; cujus quadratum est
+μίνλ. Quoniam ergo latus DC triplum potest rectae
+Ca, (ut manifestum est ex eo quod sinus 60 gra-
+duum triplum potest semiradii, et ut sinus 60 gra-
+duum ad semiradium, ita radius ad tangentem
+30 graduum), erit cubus cujus quadratum est μίνλ,
+inscriptus in sphaera cujus maximus circulus est
+nZgF. Manifestum autem est cubum cujus unum
+quadratum est ABCD circumscriptum esse sphaerae
+eidem ‚2ng; et ostensum est rectam compositam
+exlatere AB cubi circumscripti, et Ca, id est, μί
+latere cubi inscripti, aequalem esse arcui quadrantis
+BD, id est semissi circuli nZgF.
+
+Postrem0, eadem haec comparemus cum numeris;
+et (quia radix numeri non semper est numerus)
+quadrata ipsi in numeros convertemus.
+
+Producatur BC in δ, ita ut Βδ possit decem qua-
+drata a recta DV sive DF; jungaturque AB, quae
+secabit DC in X: quod sic ostendo,
+
+Quoniam Βδ potest decem quadrata a DV, et AB
+potest quatuor quadrata ab eadem DV, erit qua-
+dratum a Βδ 10, quorum quadratum ab AB sive
+DC est 4 ; sive quorum quadratum a Βδ est 40,
+

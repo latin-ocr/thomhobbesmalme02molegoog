@@ -1,0 +1,40 @@
+MATHEMATmAE Romanula. 213
+
+et unum quodlibet eorum aequale quartae parti coni mucuns
+ejusdem altitudinis et basis cum cylindro descripto W·
+a rectangulo DG. Est enim conus, id est, solidum
+descriptum a triangulo rectilineo DGF converso
+super rectum DF, tertia pars cylindri descripti a
+revolutioni rectanguli DG super eandem rectam DF.
+Con-sect. ii. Manifestum hinc est eadem methodo
+demonstrari posse, sumpta quavis alia parallela
+altitudinis, ut A f, terminata ex una parte in dia-
+metro DB, ex altera parte in cycloide, et ducta f π
+perpendiculariter ad BG, quod solidum factum a
+conversione plani cycloidalis Bm f A circa rectam
+A f per quadrantem circuli, aequale esse duabus
+tertiis solidi facti eodem tempore a conversione
+rectanguli Απ supra eandem A f
+
+PRoPosl'rlo xvn.
+
+Centrum gravitatis semicirculi genitoris ABCD
+ita dividit radium AC in Ο, ut pars Ao sit -ξῑ arcus
+BCD.
+
+Si fiat ut tertia pars arcus BCD ad tertiam
+partem subtensae, id est, diametri BD, ita duae
+tertiae radii AB, id est, una tertia diametri BD,
+ad quartam, erit terminus illius quartae sumptae ab
+A versus C centrum gravitatis semicirculi ABCD
+(lib. i, cap. ix, prop. i, Guldini de Centro Gravi-
+tatis). Sit terminus ille O.
+
+Est ergo tertia pars diametri BD media propor-
+tionalis inter tertiam partem arcus BCD et AO.
+Quoniam ergo diameter (per superius demonstrata)
+est media proportionalis inter arcum BCD et duas
+quintas arcus ejusdem, etiam tertia pars diametri
+erit media proportionalis inter tertiam partem
+arcus BCD et tertiam partem duarum quintarum,
+

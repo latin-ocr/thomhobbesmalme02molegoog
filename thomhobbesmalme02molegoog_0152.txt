@@ -1,0 +1,45 @@
+140 ExAM1NAT1o ET EMEN oA'r1o
+
+»umens ex multiplicatione termini minimi A, primo per
+ᾧ multiplicantem communem ·M; et deincepS, per
+
+ipsius multiplicantis potestates ordine ascendentes,
+nempe, per M M quadratum, M M M cubum, M M M M
+quadrato quadratum, etc.
+
+B. Video.
+
+A. Et esse quot termini tot potestates ascenden-
+teS, demptis duabus3 nam M non est potestaS, sed
+radix. Multiplicationes antem tot sunt quot sunt,
+dempto unc, ipsi termini. Jam datis duobus tan-
+tum terminis primis, datur M, nimirum, dividendo
+B per A. Quaeritur autem, verbi gratia, terminus
+post A quartus. Scribe M quater, ut MMMM.
+Quia ergo datur M, datur quoque M MMM. Datur
+autem et A. Datur ergo MMMM A, terminus
+quaesituS, nempe, quartus incipiendo a B. Multi-
+plicationes enim una pauciores sunt quam termini.
+
+B. Teneo. Et siquidem terminus postularetur
+centesimuS, deberet M multiplicari in se nonage-
+sies novieS, et productus in A, ut haberetur ter·
+minus centesimus,
+
+A. Ita est. Sed labor aliquanto minor erit, ubi
+multi sunt progressionis termini, si multiplicatio
+fiat per potestates altioreS. Nam si multiplicans
+sit 3, non est necesse ascendenti ad cubiculum,
+multiplicationem incipere a 3: possumus enim
+incipere a cubo ejus 27, vel ab alia altiore potestate
+cognita.
+
+B. Sed cur tu pro multiplicante ponis M, cum
+Wallisius ponat ubique R?
+
+A. In causa certe non est quod libeat ab illo dis·
+sentiri, sed ne alioS, ut ille, inducam in errorem.
+Ego enim pono M, literam multiplicanti-s· initialem:
+
+ille R, literam initialem rationis. Nam in progres-
+
